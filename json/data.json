@@ -1,0 +1,2560 @@
+{
+  "location1": {
+    "id": "노보리베쓰",
+    "category": "후쿠오카",
+    "img": [
+      { "url": "./img/location-data/location1/location1_front.jpg" },
+      { "url": "./img/location-data/location1/location1_front_map.svg" }
+    ],
+    "post": "../img/location-data/location1/location1_head.jpg",
+    "place": "홋카이도의 대자연을 만끽",
+    "title": "홋카이도 노보리베쓰, 도야: 몸도 마음도 힐링되는 온천과 맛집 거리를 둘러보는 여행",
+    "topic": "웅대한 자연을 체감할 수 있는 노보리베쓰, 도야 지역은 천혜의 자연과 힐링을 느낄 수 있는 인기 볼거리가 가득",
+    "detail": "홋카이도 남서부에 위치한 노보리베쓰, 도야 지역은 7개의 시정으로 이루어진 지역으로 활발한 지각 활동이 가져온 천혜의 대자연을 피부로 느낄 수 있는 신비한 명소가 가득합니다. 광대한 원천 지대에서 생겨난 다양한 온천이나 대자연이 낳은 신선한 식재료 등 몸도 마음도 힐링되는 여행을 떠나보지 않겠습니까?",
+    "map": "../img/location-data/location1/location1_intro_positionmap.svg",
+    "spot": [
+      {
+        "id": "01",
+        "img": [
+          { "url": "../img/location-data/location1/spot1-1.jpg" },
+          { "url": "../img/location-data/location1/spot1-2.jpg" },
+          { "url": "../img/location-data/location1/spot1-3.jpg" },
+          { "url": "../img/location-data/location1/spot1-4.jpg" },
+          { "url": "../img/location-data/location1/spot1-5.jpg" },
+          { "url": "../img/location-data/location1/spot1-6.jpg" }
+        ],
+        "title": "빅 파이트 마쓰모토 (관리 낚시터)",
+        "detail": "홋카이도의 광대한 자연 속에서 자연 번식을 반복하여 탱탱한 송어 낚시를 즐길 수 있습니다. 낚시 후에는 차량으로 약 30분인 곳에 있는 기타유자와 온천에서 여행의 피로를 푸는 것을 추천합니다. 협곡을 흐르는 오사루 강을 따라 다양한 온천 료칸이 있습니다."
+      },
+      {
+        "id": "02",
+        "img": [
+          { "url": "../img/location-data/location1/spot2-1.jpg" },
+          { "url": "../img/location-data/location1/spot2-2.jpg" },
+          { "url": "../img/location-data/location1/spot2-3.jpg" },
+          { "url": "../img/location-data/location1/spot2-4.jpg" },
+          { "url": "../img/location-data/location1/spot2-5.jpg" },
+          { "url": "../img/location-data/location1/spot2-6.jpg" }
+        ],
+        "title": "도요우라 어항 가리비 양식 견학 체험",
+        "detail": "도요우라초의 특산품인 가리비 양식 및 경매를 견학할 수 있는 체험 투어 (유료, 사전 예약 필수) . 점심 식사는 인기 음식점에서 신선한 가리비를 배부르게 먹을 수 있습니다. 부근에는 커다란 객선 같은 외관의 리조트 온천 명소 '천연 도요우라 온천 시오사이'가 있어 당일치기 입욕도 가능합니다."
+      },
+      {
+        "id": "03",
+        "img": [
+          { "url": "../img/location-data/location1/spot3-1.jpg" },
+          { "url": "../img/location-data/location1/spot3-2.jpg" },
+          { "url": "../img/location-data/location1/spot3-3.jpg" },
+          { "url": "../img/location-data/location1/spot3-4.jpg" },
+          { "url": "../img/location-data/location1/spot3-5.jpg" },
+          { "url": "../img/location-data/location1/spot3-6.jpg" }
+        ],
+        "title": "일루미네이션 터널",
+        "detail": "도야 호수 온천 마을의 니기와이 광장에서 겨울철 한정으로 개최되는 이벤트. 전체 길이 70m의 터널이 약 40만 구의 일루미네이션으로 물듭니다. (개최 시기는 홈페이지에서 확인해 주십시오.) 도야 호수 남쪽 호반에는 도야 호수 온천의 숙박 시설이 가득합니다. 노천탕에서 바라보는 경관은 절경입니다."
+      },
+      {
+        "id": "04",
+        "img": [
+          { "url": "../img/location-data/location1/spot4-1.jpg" },
+          { "url": "../img/location-data/location1/spot4-2.jpg" },
+          { "url": "../img/location-data/location1/spot4-3.jpg" },
+          { "url": "../img/location-data/location1/spot4-4.jpg" },
+          { "url": "../img/location-data/location1/spot4-5.jpg" },
+          { "url": "../img/location-data/location1/spot4-6.jpg" }
+        ],
+        "title": "쇼와신산",
+        "detail": "쇼와신산은 1943년의 우스산 분화로 평탄했던 토지가 융기하면서 생겨난 산으로 국가 천연기념물로 지정되어 있습니다. 산기슭에는 음식점, 기념품 가게도 다수 즐비해 있으며 곰 목장도 추천합니다. 부근에 있는 도야 호수 온천이나 소베쓰 온천에서는 호수 유역에서 힐링 공간을 즐길 수 있습니다."
+      },
+      {
+        "id": "05",
+        "img": [
+          { "url": "../img/location-data/location1/spot5-1.jpg" },
+          { "url": "../img/location-data/location1/spot5-2.jpg" },
+          { "url": "../img/location-data/location1/spot5-3.jpg" },
+          { "url": "../img/location-data/location1/spot5-4.jpg" },
+          { "url": "../img/location-data/location1/spot5-5.jpg" },
+          { "url": "../img/location-data/location1/spot5-6.jpg" }
+        ],
+        "title": "지큐 곶 (지큐 곶 전망대)",
+        "detail": "지큐 곶은 에토모 반도의 최남단에 돌출된 곶으로 단애 위의 전망대에서 태평양을 한눈에 볼 수 있는 일본 국내에서도 손꼽히는 경승지입니다. 또한 지큐 곶에서 차량으로 약 20분인 하쿠초 대교는 전체 길이 1,380m의 동일본 최대의 현수교입니다. 일몰부터 심야 12시까지 풍력 발전을 통해 일루미네이션이 점등됩니다."
+      },
+      {
+        "id": "06",
+        "img": [
+          { "url": "../img/location-data/location1/spot6-1.jpg" },
+          { "url": "../img/location-data/location1/spot6-2.jpg" },
+          { "url": "../img/location-data/location1/spot6-3.jpg" },
+          { "url": "../img/location-data/location1/spot6-4.jpg" },
+          { "url": "../img/location-data/location1/spot6-5.jpg" },
+          { "url": "../img/location-data/location1/spot6-6.jpg" }
+        ],
+        "title": "노보리베쓰 온천 마을",
+        "detail": "노보리베쓰 온천은 일본 전국 온천지 순위에서 항상 베스트 10에 들어가는 홋카이도 굴지의 온천지. 그 일대의 노보리베쓰 온천 마을에서는 입욕을 즐길 수 있을 뿐만 아니라 노보리베쓰 지고쿠 계곡 및 오유누마 강 천연 족탕 등의 주변 관광 명소를 둘러보는 것도 추천합니다."
+      },
+      {
+        "id": "07",
+        "img": [
+          { "url": "../img/location-data/location1/spot7-1.jpg" },
+          { "url": "../img/location-data/location1/spot7-2.jpg" },
+          { "url": "../img/location-data/location1/spot7-3.jpg" },
+          { "url": "../img/location-data/location1/spot7-4.jpg" },
+          { "url": "../img/location-data/location1/spot7-5.jpg" },
+          { "url": "../img/location-data/location1/spot7-6.jpg" }
+        ],
+        "title": "우포포이 (민족 공생 상징 공간)",
+        "detail": "아이누의 역사 및 문화를 배우고 전하는 우포포이. 옛날식 무용 등의 전통 예능을 상연하거나 아이누 요리의 조리 체험이나 목조 및 자수 체험도 실시합니다. 부근에는 풍부한 용출량을 자랑하는 고조하마 온천이 있어 100% 원천 방류식의 질 좋은 온천을 즐길 수 있습니다."
+      }
+    ]
+  },
+  "location2": {
+    "id": "구시로",
+    "category": "후쿠오카",
+    "img": [
+      { "url": "./img/location-data/location2/location2_front.jpg" },
+      { "url": "./img/location-data/location2/location2_front_map.svg" }
+    ],
+    "post": "../img/location-data/location2/location2_head.jpg",
+    "place": "여름의 홋카이도",
+    "title": "구시로 습원과 시레토코고코",
+    "topic": "웅대한 대자연을 느끼며 여름의 도토를 둘러보는 투어",
+    "detail": "여름의 녹음이 풍요로운 자연을 사랑하는 사람에게 추천하는 루트. 구시로 습원 전망대에서 절경을 즐기고 마리모로 유명한 아칸코를 방문하여 신비한 마슈코를 탐방합니다. 또한 오신코신 폭포와 세계 자연 유산인 시레토코 국립공원의 시레토코고코를 방문합니다.",
+    "map": "../img/location-data/location2/location2_intro_positionmap.svg",
+    "spot": [
+      {
+        "id": "01",
+        "img": [
+          { "url": "../img/location-data/location2/spot1-1.jpg" },
+          { "url": "../img/location-data/location2/spot1-2.jpg" },
+          { "url": "../img/location-data/location2/spot1-3.jpg" },
+          { "url": "../img/location-data/location2/spot1-4.jpg" },
+          { "url": "../img/location-data/location2/spot1-5.jpg" },
+          { "url": "../img/location-data/location2/spot1-6.jpg" }
+        ],
+        "title": "구시로 습원 국립공원",
+        "detail": "끝없이 광대한 일본 최대의 습원"
+      },
+      {
+        "id": "02",
+        "img": [
+          { "url": "../img/location-data/location2/spot2-1.jpg" },
+          { "url": "../img/location-data/location2/spot2-2.jpg" },
+          { "url": "../img/location-data/location2/spot2-3.jpg" },
+          { "url": "../img/location-data/location2/spot2-4.jpg" },
+          { "url": "../img/location-data/location2/spot2-5.jpg" },
+          { "url": "../img/location-data/location2/spot2-6.jpg" }
+        ],
+        "title": "아칸코",
+        "detail": "우뚝 솟은 오아칸다케와 마리모를 만날 수 있습니다."
+      },
+      {
+        "id": "03",
+        "img": [
+          { "url": "../img/location-data/location2/spot3-1.jpg" },
+          { "url": "../img/location-data/location2/spot3-2.jpg" },
+          { "url": "../img/location-data/location2/spot3-3.jpg" },
+          { "url": "../img/location-data/location2/spot3-4.jpg" },
+          { "url": "../img/location-data/location2/spot3-5.jpg" },
+          { "url": "../img/location-data/location2/spot3-6.jpg" }
+        ],
+        "title": "마슈코",
+        "detail": "안개로 뒤덮인 일본에서 가장 투명한 호수."
+      },
+      {
+        "id": "04",
+        "img": [
+          { "url": "../img/location-data/location2/spot4-1.jpg" },
+          { "url": "../img/location-data/location2/spot4-2.jpg" },
+          { "url": "../img/location-data/location2/spot4-3.jpg" },
+          { "url": "../img/location-data/location2/spot4-4.jpg" },
+          { "url": "../img/location-data/location2/spot4-5.jpg" },
+          { "url": "../img/location-data/location2/spot4-6.jpg" }
+        ],
+        "title": "오신코신 폭포",
+        "detail": "후타미 폭포로도 유명한 훌륭한 폭포. 최상부의 전망대에서 보는 전망을 즐기자."
+      },
+      {
+        "id": "05",
+        "img": [
+          { "url": "../img/location-data/location2/spot5-1.jpg" },
+          { "url": "../img/location-data/location2/spot5-2.jpg" },
+          { "url": "../img/location-data/location2/spot5-3.jpg" },
+          { "url": "../img/location-data/location2/spot5-4.jpg" },
+          { "url": "../img/location-data/location2/spot5-5.jpg" },
+          { "url": "../img/location-data/location2/spot5-6.jpg" }
+        ],
+        "title": "시레토코고코",
+        "detail": "세계 자연 유산의 꿈과 같은 세계를 산책합니다."
+      }
+    ]
+  },
+  "location3": {
+    "id": "하코다테",
+    "category": "후쿠오카",
+    "img": [
+      { "url": "./img/location-data/location3/location3_front.jpg" },
+      { "url": "./img/location-data/location3/location3_front_map.svg" }
+    ],
+    "post": "../img/location-data/location3/location3_head.jpg",
+    "place": "홋카이도에서 즐기는 봄 꽃놀이",
+    "title": "하코다테, 오타루:고료카쿠의 벚꽃이나 야경으로 봄을 만끽",
+    "topic": "홋카이도의 봄을 만끽하자 홋카이도의 자랑거리 벚꽃",
+    "detail": "삿포로 히쓰지가오카 전망대에서 벚꽃을 바라보는 곳에서 시작. 오타루 운하를 산책하면서 아름다운 벚꽃을 감상하고 아름답게 핀 분홍색 쌍둥이 벚꽃을 즐기고 고료카쿠의 벚꽃을 감상. 마지막에는 하코다테의 야경과 밤 벚꽃을 바라보면서 낭만적인 산책을.",
+    "map": "../img/location-data/location3/location3_intro_positionmap.svg",
+    "spot": [
+      {
+        "id": "01",
+        "img": [
+          { "url": "../img/location-data/location3/spot1-1.jpg" },
+          { "url": "../img/location-data/location3/spot1-2.jpg" },
+          { "url": "../img/location-data/location3/spot1-3.jpg" },
+          { "url": "../img/location-data/location3/spot1-4.jpg" },
+          { "url": "../img/location-data/location3/spot1-5.jpg" },
+          { "url": "../img/location-data/location3/spot1-6.jpg" }
+        ],
+        "title": "삿포로 히쓰지가오카 전망대",
+        "detail": "홋카이도 농업의 유명한 선구자 윌리엄 S. 클라크의 눈 아래로 웅대한 목초지가 펼쳐집니다."
+      },
+      {
+        "id": "02",
+        "img": [
+          { "url": "../img/location-data/location3/spot2-1.jpg" },
+          { "url": "../img/location-data/location3/spot2-2.jpg" },
+          { "url": "../img/location-data/location3/spot2-3.jpg" },
+          { "url": "../img/location-data/location3/spot2-4.jpg" },
+          { "url": "../img/location-data/location3/spot2-5.jpg" },
+          { "url": "../img/location-data/location3/spot2-6.jpg" }
+        ],
+        "title": "오타루 운하",
+        "detail": "가스등의 불빛이 수면에 비치는 훌륭한 경치를 즐길 수 있습니다."
+      },
+      {
+        "id": "03",
+        "img": [
+          { "url": "../img/location-data/location3/spot3-1.jpg" },
+          { "url": "../img/location-data/location3/spot3-2.jpg" },
+          { "url": "../img/location-data/location3/spot3-3.jpg" },
+          { "url": "../img/location-data/location3/spot3-4.jpg" },
+          { "url": "../img/location-data/location3/spot3-5.jpg" },
+          { "url": "../img/location-data/location3/spot3-6.jpg" }
+        ],
+        "title": "쌍둥이 벚꽃",
+        "detail": "요테이잔을 배경으로 한 2그루의 멋진 나무."
+      },
+      {
+        "id": "04",
+        "img": [
+          { "url": "../img/location-data/location3/spot4-1.jpg" },
+          { "url": "../img/location-data/location3/spot4-2.jpg" },
+          { "url": "../img/location-data/location3/spot4-3.jpg" },
+          { "url": "../img/location-data/location3/spot4-4.jpg" },
+          { "url": "../img/location-data/location3/spot4-5.jpg" },
+          { "url": "../img/location-data/location3/spot4-6.jpg" }
+        ],
+        "title": "고료카쿠",
+        "detail": "아름다운 별과 같은 형태의 신비로운 사적."
+      },
+      {
+        "id": "05",
+        "img": [
+          { "url": "../img/location-data/location3/spot5-1.jpg" },
+          { "url": "../img/location-data/location3/spot5-2.jpg" },
+          { "url": "../img/location-data/location3/spot5-3.jpg" },
+          { "url": "../img/location-data/location3/spot5-4.jpg" },
+          { "url": "../img/location-data/location3/spot5-5.jpg" },
+          { "url": "../img/location-data/location3/spot5-6.jpg" }
+        ],
+        "title": "하코다테야마의 야경",
+        "detail": "독특하고 아름다운 지형과 눈부신 야경을 만끽할 수 있습니다."
+      }
+    ]
+  },
+  "location4": {
+    "id": "아사히다케",
+    "category": "후쿠오카",
+    "img": [
+      { "url": "./img/location-data/location4/location4_front.jpg" },
+      { "url": "./img/location-data/location4/location4_front_map.svg" }
+    ],
+    "post": "../img/location-data/location4/location4_head.jpg",
+    "place": "초여름의 홋카이도 여행",
+    "title": "아사히다케의 눈과 꽃잔디로 웅대한 자연을 체감",
+    "topic": "겨울과 봄을 동시에 맛볼 수 있다 홋카이도를 횡단하는 동경해 왔던 여행",
+    "detail": "매년 한정된 기간에만 운영하는 운해 테라스에서 놀라운 체험을. 6월까지 눈을 볼 수 있는 아사히다케에서 겨울을 즐기면서 꽃잔디의 화려한 분홍색 카펫으로 봄을 맛볼 수도 있습니다. 신치토세 공항에서 오호츠크 몬베쓰 공항에 이르기까지 초여름의 홋카이도를 둘러보는 추천 루트입니다.",
+    "map": "../img/location-data/location3/location4_intro_positionmap.svg",
+    "spot": [
+      {
+        "id": "01",
+        "img": [
+          { "url": "../img/location-data/location4/spot1-1.jpg" },
+          { "url": "../img/location-data/location4/spot1-2.jpg" },
+          { "url": "../img/location-data/location4/spot1-3.jpg" },
+          { "url": "../img/location-data/location4/spot1-4.jpg" },
+          { "url": "../img/location-data/location4/spot1-5.jpg" },
+          { "url": "../img/location-data/location4/spot1-6.jpg" }
+        ],
+        "title": "운해 테라스 (호시노 리조트 토마무)",
+        "detail": "웅대한 자연이 가져다주는 신비한 운해"
+      },
+      {
+        "id": "02",
+        "img": [
+          { "url": "../img/location-data/location4/spot2-1.jpg" },
+          { "url": "../img/location-data/location4/spot2-2.jpg" },
+          { "url": "../img/location-data/location4/spot2-3.jpg" },
+          { "url": "../img/location-data/location4/spot2-4.jpg" },
+          { "url": "../img/location-data/location4/spot2-5.jpg" },
+          { "url": "../img/location-data/location4/spot2-6.jpg" }
+        ],
+        "title": "시로가네 아오이이케",
+        "detail": "태양빛은 훌륭한 경치를 수면에 비추고 연못을 파랗게 빛나게 합니다."
+      },
+      {
+        "id": "03",
+        "img": [
+          { "url": "../img/location-data/location4/spot3-1.jpg" },
+          { "url": "../img/location-data/location4/spot3-2.jpg" },
+          { "url": "../img/location-data/location4/spot3-3.jpg" },
+          { "url": "../img/location-data/location4/spot3-4.jpg" },
+          { "url": "../img/location-data/location4/spot3-5.jpg" },
+          { "url": "../img/location-data/location4/spot3-6.jpg" }
+        ],
+        "title": "시키사이노오카 (비에이초)",
+        "detail": "화려하게 물든 꽃밭"
+      },
+      {
+        "id": "04",
+        "img": [
+          { "url": "../img/location-data/location4/spot4-1.jpg" },
+          { "url": "../img/location-data/location4/spot4-2.jpg" },
+          { "url": "../img/location-data/location4/spot4-3.jpg" },
+          { "url": "../img/location-data/location4/spot4-4.jpg" },
+          { "url": "../img/location-data/location4/spot4-5.jpg" },
+          { "url": "../img/location-data/location4/spot4-6.jpg" }
+        ],
+        "title": "아사히다케",
+        "detail": "100대 명산으로 선정된 홋카이도에서 가장 높은 산"
+      },
+      {
+        "id": "05",
+        "img": [
+          { "url": "../img/location-data/location4/spot5-1.jpg" },
+          { "url": "../img/location-data/location4/spot5-2.jpg" },
+          { "url": "../img/location-data/location4/spot5-3.jpg" },
+          { "url": "../img/location-data/location4/spot5-4.jpg" },
+          { "url": "../img/location-data/location4/spot5-5.jpg" },
+          { "url": "../img/location-data/location4/spot5-6.jpg" }
+        ],
+        "title": "시바자쿠라 타키노우에 공원",
+        "detail": "꽃잔디가 산 중턱을 분홍색으로 물들인다"
+      },
+      {
+        "id": "06",
+        "img": [
+          { "url": "../img/location-data/location4/spot6-1.jpg" },
+          { "url": "../img/location-data/location4/spot6-2.jpg" },
+          { "url": "../img/location-data/location4/spot6-3.jpg" },
+          { "url": "../img/location-data/location4/spot6-4.jpg" },
+          { "url": "../img/location-data/location4/spot6-5.jpg" },
+          { "url": "../img/location-data/location4/spot6-6.jpg" }
+        ],
+        "title": "수타 소바 가나데",
+        "detail": "북쪽 대지의 혜택을 받고 자란 홋카이도산 소바 가루로 만들었으며 맷돌로 빻은 본격 수타 소바를 만끽."
+      }
+    ]
+  },
+  "location5": {
+    "id": "야마가타 쇼나이",
+    "category": "도후쿠",
+    "img": [
+      { "url": "./img/location-data/location5/location5_front.jpg" },
+      { "url": "./img/location-data/location5/location5_front_map.svg" }
+    ],
+    "post": "../img/location-data/location5/location5_head.jpg",
+    "place": "동해의 도호쿠 풍경을 찾아서",
+    "title": "야마가타 쇼나이 및 아키타:하구로산이나 조카이산의 대자연과 만나는 여행",
+    "topic": "동해나 광대한 쇼나이를 바라보는 상쾌한 로드 트립으로 대자연과 문화를 체감하자",
+    "detail": "야마가타 쇼나이 및 아키타에는 산과 바다가 길러낸 독자적인 문화가 있습니다. 장대한 대자연에 둘러싸인 데와 3산에서 볼 수 있는 정신문화는 사람들에게 사랑받고 있습니다. 1,000년의 역사를 자랑하는 유노하마 온천이나 쇼나이의 쌀 식문화를 뒷받침해 온 산쿄 창고 등 심오한 문화와 자연을 체감할 수 있는 로드 트립을 소개합니다.",
+    "map": "../img/location-data/location3/location5_intro_positionmap.svg",
+    "spot": [
+      {
+        "id": "01",
+        "img": [
+          { "url": "../img/location-data/location5/spot1-1.jpg" },
+          { "url": "../img/location-data/location5/spot1-2.jpg" },
+          { "url": "../img/location-data/location5/spot1-3.jpg" },
+          { "url": "../img/location-data/location5/spot1-4.jpg" },
+          { "url": "../img/location-data/location5/spot1-5.jpg" },
+          { "url": "../img/location-data/location5/spot1-6.jpg" }
+        ],
+        "title": "데와산잔",
+        "detail": "데와 3산은 하구로산, 갓산, 유도노산의 총칭으로 슈겐도의 성지로 많은 사람이 방문합니다. 이 3산을 순례한다는 것은 '다시 태어나는 여행'이 된다고 합니다. 살아있으면서도 땅속의 석실에 들어가 부처가 된 즉신불도 존재하며 그 수는 일본에서 가장 많습니다."
+      },
+      {
+        "id": "02",
+        "img": [
+          { "url": "../img/location-data/location5/spot2-1.jpg" },
+          { "url": "../img/location-data/location5/spot2-2.jpg" },
+          { "url": "../img/location-data/location5/spot2-3.jpg" },
+          { "url": "../img/location-data/location5/spot2-4.jpg" },
+          { "url": "../img/location-data/location5/spot2-5.jpg" },
+          { "url": "../img/location-data/location5/spot2-6.jpg" }
+        ],
+        "title": "가모 수족관",
+        "detail": "해파리의 전시 종류 수가 세계 최고인 수족관으로 60종류 이상의 해파리가 느긋하게 물속을 떠다니는 모습을 즐길 수 있습니다. 그중에서도 지름 5m, 수량 40톤의 원형 수조 속에 약 1만 마리의 보름달물해파리가 떠다니는 거대 수조는 압권입니다."
+      },
+      {
+        "id": "03",
+        "img": [
+          { "url": "../img/location-data/location5/spot3-1.jpg" },
+          { "url": "../img/location-data/location5/spot3-2.jpg" },
+          { "url": "../img/location-data/location5/spot3-3.jpg" },
+          { "url": "../img/location-data/location5/spot3-4.jpg" },
+          { "url": "../img/location-data/location5/spot3-5.jpg" },
+          { "url": "../img/location-data/location5/spot3-6.jpg" }
+        ],
+        "title": "유노하마 온천",
+        "detail": "동해에 면한 온천지인 유노하마 온천에서는 바다를 바라보면서 료칸에 머무를 수 있습니다. 그 밖에도 쓰루오카 시내에는 아쓰미, 유타가와, 유라라는 온천 마을이나 전원 풍경을 즐길 수 있는 스이덴 테라스 등 다양한 숙박 시설이 있습니다."
+      },
+      {
+        "id": "04",
+        "img": [
+          { "url": "../img/location-data/location5/spot4-1.jpg" },
+          { "url": "../img/location-data/location5/spot4-2.jpg" },
+          { "url": "../img/location-data/location5/spot4-3.jpg" },
+          { "url": "../img/location-data/location5/spot4-4.jpg" },
+          { "url": "../img/location-data/location5/spot4-5.jpg" },
+          { "url": "../img/location-data/location5/spot4-6.jpg" }
+        ],
+        "title": "소마로",
+        "detail": "소마로는 한때 무역으로 번성했던 항구 도시 사카타에 있었던 구 요정으로 현재는 관광 시설로 무녀의 연무를 감상할 수 있습니다. 마찬가지로 구 요정인 산노 클럽에서는 가족의 행복과 아이의 성장을 기원하며 만든 장식을 우산에 매단 '가사후쿠'가 전시되어 있습니다."
+      },
+      {
+        "id": "05",
+        "img": [
+          { "url": "../img/location-data/location5/spot5-1.jpg" },
+          { "url": "../img/location-data/location5/spot5-2.jpg" },
+          { "url": "../img/location-data/location5/spot5-3.jpg" },
+          { "url": "../img/location-data/location5/spot5-4.jpg" },
+          { "url": "../img/location-data/location5/spot5-5.jpg" },
+          { "url": "../img/location-data/location5/spot5-6.jpg" }
+        ],
+        "title": "산쿄 창고",
+        "detail": "산쿄 창고는 한때 무역항으로 번성했던 사카타의 쌀 창고. 이 창고는 현재도 이용되고 있습니다만, 일부는 쌀 박물관이나 사카타의 물산품을 살 수 있는 기념품 가게로 이용되고 있습니다. 또한 인근의 히요리야마 공원에서는 동해로 저무는 아름다운 석양을 바라볼 수 있습니다."
+      },
+      {
+        "id": "06",
+        "img": [
+          { "url": "../img/location-data/location5/spot6-1.jpg" },
+          { "url": "../img/location-data/location5/spot6-2.jpg" },
+          { "url": "../img/location-data/location5/spot6-3.jpg" },
+          { "url": "../img/location-data/location5/spot6-4.jpg" },
+          { "url": "../img/location-data/location5/spot6-5.jpg" },
+          { "url": "../img/location-data/location5/spot6-6.jpg" }
+        ],
+        "title": "휴게소 조카이 후랏토",
+        "detail": "유자마치에 있는 '휴게소 조카이 후랏토'에서는 바위굴을 비롯하여 계절마다 수확하는 다양한 종류의 어패류를 구입할 수 있으며 그 자리에서 먹을 수도 있습니다. 또한 쇼나이 지역에서는 배나 멜론 등의 과일, 다다차마메 등의 농산물도 풍부합니다."
+      },
+      {
+        "id": "07",
+        "img": [
+          { "url": "../img/location-data/location5/spot7-1.jpg" },
+          { "url": "../img/location-data/location5/spot7-2.jpg" },
+          { "url": "../img/location-data/location5/spot7-3.jpg" },
+          { "url": "../img/location-data/location5/spot7-4.jpg" },
+          { "url": "../img/location-data/location5/spot7-5.jpg" },
+          { "url": "../img/location-data/location5/spot7-6.jpg" }
+        ],
+        "title": "모토타키 복류수와 조카이산",
+        "detail": "야마가타현과 아키타현의 경계에 우뚝 솟은 해발 2,236m의 조카이산은 후지산과 모습이 비슷하여 '데와 후지'로 사랑받는 산입니다. 여름에는 고산 식물을 즐기면서 등산할 수 있을 뿐만 아니라 산기슭에서는 풍부한 용수로 이루어진 폭포나 연못의 아름다운 풍경을 볼 수 있습니다."
+      }
+    ]
+  },
+  "location6": {
+    "id": "후쿠시마",
+    "category": "도후쿠",
+    "img": [
+      { "url": "./img/location-data/location6/location6_front.jpg" },
+      { "url": "./img/location-data/location6/location6_front_map.svg" }
+    ],
+    "post": "../img/location-data/location6/location6_head.jpg",
+    "place": "매력 넘치는 후쿠시마를 만끽",
+    "title": "후쿠시마: 역사, 자연, 음식, 문화, 다채로운 매력을 만나는 여행",
+    "topic": "'우쓰쿠시마' 후쿠시마의 사계절 각각 다른 매력을 마음껏 즐기자",
+    "detail": "일본에서 3번째로 큰 면적을 자랑하는 후쿠시마. 오우치주쿠와 쓰루가성에서 역사 탐방을 한 후에는 웅대한 자연을 즐기며 낭만적인 다다미선을 따라 차창 여행. 배가 고프면 현지의 기타카타 라멘이나 아이즈의 향토 요리로 배를 채우고, 본고장의 일본주도 꼭 함께 맛보시길 바랍니다.",
+    "map": "../img/location-data/location3/location6_intro_positionmap.svg",
+    "spot": [
+      {
+        "id": "01",
+        "img": [
+          { "url": "../img/location-data/location6/spot1-1.jpg" },
+          { "url": "../img/location-data/location6/spot1-2.jpg" },
+          { "url": "../img/location-data/location6/spot1-3.jpg" },
+          { "url": "../img/location-data/location6/spot1-4.jpg" },
+          { "url": "../img/location-data/location6/spot1-5.jpg" },
+          { "url": "../img/location-data/location6/spot1-6.jpg" }
+        ],
+        "title": "오우치주쿠",
+        "detail": "오우치주쿠는 에도 시대 (1603 ~ 1868) 의 풍경이 잘 보존되어 역사의 정취가 넘치는 옛 역참 마을입니다. 산속 자연에 둘러싸인 옛 가도의 양옆으로 초가지붕을 한 민가가 늘어서 있습니다. 마치 에도 시대로 타임 슬립한 듯한 느낌입니다."
+      },
+      {
+        "id": "02",
+        "img": [
+          { "url": "../img/location-data/location6/spot2-1.jpg" },
+          { "url": "../img/location-data/location6/spot2-2.jpg" },
+          { "url": "../img/location-data/location6/spot2-3.jpg" },
+          { "url": "../img/location-data/location6/spot2-4.jpg" },
+          { "url": "../img/location-data/location6/spot2-5.jpg" },
+          { "url": "../img/location-data/location6/spot2-6.jpg" }
+        ],
+        "title": "쓰루가성",
+        "detail": "아이즈와카마쓰의 상징인 쓰루가성은 일본에서 유일한 붉은 기와 천수각이 아름다운 난공불락의 명성입니다. 단풍과 벚꽃 철에도 아름다우며 성에서 보는 경치도 최고입니다."
+      },
+      {
+        "id": "03",
+        "img": [
+          { "url": "../img/location-data/location6/spot3-1.jpg" },
+          { "url": "../img/location-data/location6/spot3-2.jpg" },
+          { "url": "../img/location-data/location6/spot3-3.jpg" },
+          { "url": "../img/location-data/location6/spot3-4.jpg" },
+          { "url": "../img/location-data/location6/spot3-5.jpg" },
+          { "url": "../img/location-data/location6/spot3-6.jpg" }
+        ],
+        "title": "아이즈의 향토 요리",
+        "detail": "바다에서 멀리 떨어져 산으로 둘러싸인 아이즈에서는 보존식품인 건어물과 버섯, 산나물 등 산중 진미로 만든 소박한 전통 요리가 유명합니다. 아이즈 소스 가쓰돈, 아이즈 카레 야키소바 등의 현지 먹거리도 즐길 수 있습니다."
+      },
+      {
+        "id": "04",
+        "img": [
+          { "url": "../img/location-data/location6/spot4-1.jpg" },
+          { "url": "../img/location-data/location6/spot4-2.jpg" },
+          { "url": "../img/location-data/location6/spot4-3.jpg" },
+          { "url": "../img/location-data/location6/spot4-4.jpg" },
+          { "url": "../img/location-data/location6/spot4-5.jpg" },
+          { "url": "../img/location-data/location6/spot4-6.jpg" }
+        ],
+        "title": "다다미선",
+        "detail": "아이즈와카마쓰부터 오쿠아이즈의 웅대한 자연을 배경으로 다다미 강의 계곡을 따라 달리는 다다미선. 사계절의 산촌 풍경과 계곡의 아름다움을 만끽할 수 있습니다. 교량과 열차가 만들어내는 멋진 절경도 매력적입니다."
+      },
+      {
+        "id": "05",
+        "img": [
+          { "url": "../img/location-data/location6/spot5-1.jpg" },
+          { "url": "../img/location-data/location6/spot5-2.jpg" },
+          { "url": "../img/location-data/location6/spot5-3.jpg" },
+          { "url": "../img/location-data/location6/spot5-4.jpg" },
+          { "url": "../img/location-data/location6/spot5-5.jpg" },
+          { "url": "../img/location-data/location6/spot5-6.jpg" }
+        ],
+        "title": "기타카타 라멘",
+        "detail": "간장으로 만든 진한 국물과 굵고 구불구불한 면이 특징인 기타카타 라멘. 가게마다 특별 주문한 간장을 사용하거나 국물과 면, 차슈에도 각각 다른 개성과 정성이 담겨 있습니다."
+      },
+      {
+        "id": "06",
+        "img": [
+          { "url": "../img/location-data/location6/spot6-1.jpg" },
+          { "url": "../img/location-data/location6/spot6-2.jpg" },
+          { "url": "../img/location-data/location6/spot6-3.jpg" },
+          { "url": "../img/location-data/location6/spot6-4.jpg" },
+          { "url": "../img/location-data/location6/spot6-5.jpg" },
+          { "url": "../img/location-data/location6/spot6-6.jpg" }
+        ],
+        "title": "후쿠시마의 일본주",
+        "detail": "맛도 개성도 다양한 후쿠시마의 일본주. 후쿠시마현에는 창업 300년 이상의 노포를 비롯해 50곳 이상의 양조장이 있습니다. 후쿠시마현 관광 물산관에서는 후쿠시마현산 일본주를 비교하며 마셔볼 수 있습니다."
+      },
+      {
+        "id": "07",
+        "img": [
+          { "url": "../img/location-data/location6/spot7-1.jpg" },
+          { "url": "../img/location-data/location6/spot7-2.jpg" },
+          { "url": "../img/location-data/location6/spot7-3.jpg" },
+          { "url": "../img/location-data/location6/spot7-4.jpg" },
+          { "url": "../img/location-data/location6/spot7-5.jpg" },
+          { "url": "../img/location-data/location6/spot7-6.jpg" }
+        ],
+        "title": "스파 리조트 하와이언즈",
+        "detail": "훌라걸과 365일 여름의 낙원을 만끽. 수영장과 온천, 훌라걸 쇼, 골프 등 1년 내내 즐길 수 있는 이와키 유모토 온천의 풍부한 탕량을 활용한 온천 테마파크입니다."
+      }
+    ]
+  },
+  "location7": {
+    "id": "자오",
+    "category": "도후쿠",
+    "img": [
+      { "url": "./img/location-data/location7/location7_front.jpg" },
+      { "url": "./img/location-data/location7/location7_front_map.svg" }
+    ],
+    "post": "../img/location-data/location7/location7_head.jpg",
+    "place": "겨울에 가고 싶은 도호쿠의 명소",
+    "title": "자오, 긴잔 온천, 마쓰시마:압도적인 설경에 둘러싸인 여행",
+    "topic": "센다이 공항에서 야마가타현과 미야기현으로 가는 이 루트에서 역사와 자연의 아름다움을 체험하자",
+    "detail": "도호쿠는 어느 계절이든 숨 막히는 아름다움. 겨울의 신비로운 나라처럼 자오의 수빙, 긴잔 온천의 향수를 불러일으키는 거리, 일본 3대 절경 중 하나인 마쓰시마 등 주변에는 많은 관광지가 있습니다.",
+    "map": "../img/location-data/location3/location7_intro_positionmap.svg",
+    "spot": [
+      {
+        "id": "01",
+        "img": [
+          { "url": "../img/location-data/location7/spot1-1.jpg" },
+          { "url": "../img/location-data/location7/spot1-2.jpg" },
+          { "url": "../img/location-data/location7/spot1-3.jpg" },
+          { "url": "../img/location-data/location7/spot1-4.jpg" },
+          { "url": "../img/location-data/location7/spot1-5.jpg" },
+          { "url": "../img/location-data/location7/spot1-6.jpg" }
+        ],
+        "title": "자오",
+        "detail": "겨울의 신비로운 나라처럼 수빙, 아름다운 에메랄드그린의 가마, 여우와 가깝게 교류할 수 있는 여우 마을이 있습니다."
+      },
+      {
+        "id": "02",
+        "img": [
+          { "url": "../img/location-data/location7/spot2-1.jpg" },
+          { "url": "../img/location-data/location7/spot2-2.jpg" },
+          { "url": "../img/location-data/location7/spot2-3.jpg" },
+          { "url": "../img/location-data/location7/spot2-4.jpg" },
+          { "url": "../img/location-data/location7/spot2-5.jpg" },
+          { "url": "../img/location-data/location7/spot2-6.jpg" }
+        ],
+        "title": "산사",
+        "detail": "장대한 경치와 험준한 절벽 위에 있는 듯한 독특한 위치로 유명합니다."
+      },
+      {
+        "id": "03",
+        "img": [
+          { "url": "../img/location-data/location7/spot3-1.jpg" },
+          { "url": "../img/location-data/location7/spot3-2.jpg" },
+          { "url": "../img/location-data/location7/spot3-3.jpg" },
+          { "url": "../img/location-data/location7/spot3-4.jpg" },
+          { "url": "../img/location-data/location7/spot3-5.jpg" },
+          { "url": "../img/location-data/location7/spot3-6.jpg" }
+        ],
+        "title": "긴잔 온천",
+        "detail": "다이쇼 시대의 낭만을 느낄 수 있는 온천 거리. 해가 지면 주변을 비추는 가스등이 향수를 불러일으키는 분위기를 자아냅니다."
+      },
+      {
+        "id": "04",
+        "img": [
+          { "url": "../img/location-data/location7/spot4-1.jpg" },
+          { "url": "../img/location-data/location7/spot4-2.jpg" },
+          { "url": "../img/location-data/location7/spot4-3.jpg" },
+          { "url": "../img/location-data/location7/spot4-4.jpg" },
+          { "url": "../img/location-data/location7/spot4-5.jpg" },
+          { "url": "../img/location-data/location7/spot4-6.jpg" }
+        ],
+        "title": "주손지",
+        "detail": "세계 유산에 등록된 이와테현의 사원. 곤지키도와 많은 국보, 중요 문화재가 있습니다."
+      },
+      {
+        "id": "05",
+        "img": [
+          { "url": "../img/location-data/location7/spot5-1.jpg" },
+          { "url": "../img/location-data/location7/spot5-2.jpg" },
+          { "url": "../img/location-data/location7/spot5-3.jpg" },
+          { "url": "../img/location-data/location7/spot5-4.jpg" },
+          { "url": "../img/location-data/location7/spot5-5.jpg" },
+          { "url": "../img/location-data/location7/spot5-6.jpg" }
+        ],
+        "title": "마쓰시마",
+        "detail": "일본 3대 절경 중 하나. 260개 섬의 장대한 경치, 또한 사시사철의 훌륭한 경치를 육지와 바다에서 즐겨 주십시오."
+      },
+      {
+        "id": "06",
+        "img": [
+          { "url": "../img/location-data/location7/spot6-1.jpg" },
+          { "url": "../img/location-data/location7/spot6-2.jpg" },
+          { "url": "../img/location-data/location7/spot6-3.jpg" },
+          { "url": "../img/location-data/location7/spot6-4.jpg" },
+          { "url": "../img/location-data/location7/spot6-5.jpg" },
+          { "url": "../img/location-data/location7/spot6-6.jpg" }
+        ],
+        "title": "센다이 맛집",
+        "detail": "규탄, 즌다 (풋콩으로 만든 현지 과자), 마쓰시마 굴, 사사 가마보코 (조릿대 모양을 한 가마보코) 등."
+      }
+    ]
+  },
+  "location8": {
+    "id": "자오",
+    "category": "간토",
+    "img": [
+      { "url": "./img/location-data/location8/location8_front.jpg" },
+      { "url": "./img/location-data/location8/location8_front_map.svg" }
+    ],
+    "post": "../img/location-data/location8/location8_head.jpg",
+    "place": "지바를 로드 트립",
+    "title": "풍요로운 자연과 액티비티를 즐기는 드라이브 여행",
+    "topic": "렌터카를 이용하여 지바의 명소와 포토제닉 체험을 마음껏 즐기다",
+    "detail": "도쿄에서 접근성이 좋은 지바. 역사 깊은 거리와 자연이 풍요로운 명소에서 액티비티를 즐길 수 있을 뿐만 아니라 아웃렛 몰에서 쇼핑을 하거나 현지 음식도 즐길 수 있습니다. 추억에 남는 포토제닉 체험을 만끽해 주십시오.",
+    "map": "../img/location-data/location3/location8_intro_positionmap.svg",
+    "spot": [
+      {
+        "id": "01",
+        "img": [
+          { "url": "../img/location-data/location8/spot1-1.jpg" },
+          { "url": "../img/location-data/location8/spot1-2.jpg" },
+          { "url": "../img/location-data/location8/spot1-3.jpg" },
+          { "url": "../img/location-data/location8/spot1-4.jpg" },
+          { "url": "../img/location-data/location8/spot1-5.jpg" },
+          { "url": "../img/location-data/location8/spot1-6.jpg" }
+        ],
+        "title": "나리타산 신쇼지 절",
+        "detail": "나리타 공항 근처에 위치한 1,000년 이상의 역사가 있는 절. 참배와 함께 호마 기도와 사경 체험을 할 수 있습니다. 운수가 트이거나 운세가 좋아지는 명소로도 알려져 있으며, 성대하게 열리는 축제와 세쓰분 등의 이벤트도 볼거리입니다."
+      },
+      {
+        "id": "02",
+        "img": [
+          { "url": "../img/location-data/location8/spot2-1.jpg" },
+          { "url": "../img/location-data/location8/spot2-2.jpg" },
+          { "url": "../img/location-data/location8/spot2-3.jpg" },
+          { "url": "../img/location-data/location8/spot2-4.jpg" },
+          { "url": "../img/location-data/location8/spot2-5.jpg" },
+          { "url": "../img/location-data/location8/spot2-6.jpg" }
+        ],
+        "title": "사와라 거리",
+        "detail": "흙벽 창고 구조의 가게나 흙벽 창고가 늘어선 사와라의 거리는 역사 경관을 간직하고 있으며 보트 투어 및 산책을 즐길 수 있습니다. 축제에서는 호화롭게 조각된 장식 수레와 큰 인형이 등장합니다."
+      },
+      {
+        "id": "03",
+        "img": [
+          { "url": "../img/location-data/location8/spot3-1.jpg" },
+          { "url": "../img/location-data/location8/spot3-2.jpg" },
+          { "url": "../img/location-data/location8/spot3-3.jpg" },
+          { "url": "../img/location-data/location8/spot3-4.jpg" },
+          { "url": "../img/location-data/location8/spot3-5.jpg" },
+          { "url": "../img/location-data/location8/spot3-6.jpg" }
+        ],
+        "title": "도미사토 호스 파크",
+        "detail": "크고 작은 4개의 승마장과 3개의 방목장이 있는 도미사토 호스 파크는 개방감이 넘치는 환경으로 사계절을 느끼며 승마를 즐길 수 있습니다. 근처에 아웃렛 몰이 있으므로 쇼핑도 겸해서 방문하는 것은 어떠십니까?"
+      },
+      {
+        "id": "04",
+        "img": [
+          { "url": "../img/location-data/location8/spot4-1.jpg" },
+          { "url": "../img/location-data/location8/spot4-2.jpg" },
+          { "url": "../img/location-data/location8/spot4-3.jpg" },
+          { "url": "../img/location-data/location8/spot4-4.jpg" },
+          { "url": "../img/location-data/location8/spot4-5.jpg" },
+          { "url": "../img/location-data/location8/spot4-6.jpg" }
+        ],
+        "title": "도쿄 독일 마을",
+        "detail": "겨울에 열리는 일루미네이션은 광대한 부지 내에서 약 300만 개의 전구가 불을 밝혀 환상적인 빛의 세계에 빠질 수 있습니다. 또한 사시사철 꽃과 어트랙션 등도 있어 온종일 놀 수 있는 명소입니다."
+      },
+      {
+        "id": "05",
+        "img": [
+          { "url": "../img/location-data/location8/spot5-1.jpg" },
+          { "url": "../img/location-data/location8/spot5-2.jpg" },
+          { "url": "../img/location-data/location8/spot5-3.jpg" },
+          { "url": "../img/location-data/location8/spot5-4.jpg" },
+          { "url": "../img/location-data/location8/spot5-5.jpg" },
+          { "url": "../img/location-data/location8/spot5-6.jpg" }
+        ],
+        "title": "노미조 폭포, 가메이와 동굴",
+        "detail": "환상적인 광경을 볼 수 있다고 SNS에서 화제가 된 명소입니다. 3월과 9월의 이른 아침에는 동굴에 쏟아지는 아침해가 수면에 반사되어 아름다운 하트 모양을 비추는 절경을 볼 수 있습니다."
+      },
+      {
+        "id": "06",
+        "img": [
+          { "url": "../img/location-data/location8/spot6-1.jpg" },
+          { "url": "../img/location-data/location8/spot6-2.jpg" },
+          { "url": "../img/location-data/location8/spot6-3.jpg" },
+          { "url": "../img/location-data/location8/spot6-4.jpg" },
+          { "url": "../img/location-data/location8/spot6-5.jpg" },
+          { "url": "../img/location-data/location8/spot6-6.jpg" }
+        ],
+        "title": "마더 목장",
+        "detail": "토끼, 기니피그 등의 작은 동물과 교감하고 짚라인 등의 액티비티나 글램핑도 즐길 수 있는 시설입니다. 특히 트랙터 기차를 타고 둘러보는 투어는 목장을 만끽할 수 있으므로 추천합니다."
+      },
+      {
+        "id": "07",
+        "img": [
+          { "url": "../img/location-data/location8/spot7-1.jpg" },
+          { "url": "../img/location-data/location8/spot7-2.jpg" },
+          { "url": "../img/location-data/location8/spot7-3.jpg" },
+          { "url": "../img/location-data/location8/spot7-4.jpg" },
+          { "url": "../img/location-data/location8/spot7-5.jpg" },
+          { "url": "../img/location-data/location8/spot7-6.jpg" }
+        ],
+        "title": "노코기리산",
+        "detail": "보소 반도를 한눈에 바라볼 수 있는 노코기리산은 로프웨이를 이용하여 부담 없이 갈 수 있는 명소입니다. 산 정상 지역에서 놓칠 수 없는 ‘지옥 엿보기’에서는 스릴 만점인 개방감 있는 절경을 맛볼 수 있습니다. 도중에는 너럭바위에서 발굴된 석불로는 일본 제일인 대불이 있으며, 그 모습은 필수 볼거리입니다."
+      }
+    ]
+  },
+  "location9": {
+    "id": "도쿄",
+    "category": "간토",
+    "img": [
+      { "url": "./img/location-data/location9/location9_front.jpg" },
+      { "url": "./img/location-data/location9/location9_front_map.svg" }
+    ],
+    "post": "../img/location-data/location9/location9_head.jpg",
+    "place": "도쿄의 놓칠 수 없는 명소",
+    "title": "도쿄: 첫 여행에 방문하고 싶은 명소를 둘러보는 여행",
+    "topic": "일본의 관문 - 도쿄. 인기 명소부터 잘 알려지지 않은 명소까지 소개",
+    "detail": "도쿄는 인구 139만 명 이상의 대도시. 도쿄의 상징인 도쿄 타워와 마찬가지로 스카이트리에서 바라보는 조망도 훌륭합니다. 일본을 느낄 수 있는 센소지, 시부야의 스크램블 교차로를 건너는 사람들의 광경, 도쿄만을 내려다보는 오다이바 등 볼거리가 다양합니다.",
+    "map": "../img/location-data/location3/location9_intro_positionmap.svg",
+    "spot": [
+      {
+        "id": "01",
+        "img": [
+          { "url": "../img/location-data/location9/spot1-1.jpg" },
+          { "url": "../img/location-data/location9/spot1-2.jpg" },
+          { "url": "../img/location-data/location9/spot1-3.jpg" },
+          { "url": "../img/location-data/location9/spot1-4.jpg" },
+          { "url": "../img/location-data/location9/spot1-5.jpg" },
+          { "url": "../img/location-data/location9/spot1-6.jpg" }
+        ],
+        "title": "오다이바",
+        "detail": "많은 레저 명소, 쇼핑, 맛집을 즐길 수 있는 도쿄의 워터 프런트."
+      },
+      {
+        "id": "02",
+        "img": [
+          { "url": "../img/location-data/location9/spot2-1.jpg" },
+          { "url": "../img/location-data/location9/spot2-2.jpg" },
+          { "url": "../img/location-data/location9/spot2-3.jpg" },
+          { "url": "../img/location-data/location9/spot2-4.jpg" },
+          { "url": "../img/location-data/location9/spot2-5.jpg" },
+          { "url": "../img/location-data/location9/spot2-6.jpg" }
+        ],
+        "title": "도쿄 타워",
+        "detail": "도쿄의 관광 명소, 상징으로 유명. 전망대에서 후지산과 도쿄의 길거리를 한눈에 볼 수 있습니다."
+      },
+      {
+        "id": "03",
+        "img": [
+          { "url": "../img/location-data/location9/spot3-1.jpg" },
+          { "url": "../img/location-data/location9/spot3-2.jpg" },
+          { "url": "../img/location-data/location9/spot3-3.jpg" },
+          { "url": "../img/location-data/location9/spot3-4.jpg" },
+          { "url": "../img/location-data/location9/spot3-5.jpg" },
+          { "url": "../img/location-data/location9/spot3-6.jpg" }
+        ],
+        "title": "시부야",
+        "detail": "젊은이 문화를 전파하는 도쿄 지역. 시부야역 앞의 많은 사람이 건너는 스크램블 교차로와 하치코가 유명합니다."
+      },
+      {
+        "id": "04",
+        "img": [
+          { "url": "../img/location-data/location9/spot4-1.jpg" },
+          { "url": "../img/location-data/location9/spot4-2.jpg" },
+          { "url": "../img/location-data/location9/spot4-3.jpg" },
+          { "url": "../img/location-data/location9/spot4-4.jpg" },
+          { "url": "../img/location-data/location9/spot4-5.jpg" },
+          { "url": "../img/location-data/location9/spot4-6.jpg" }
+        ],
+        "title": "고토쿠지",
+        "detail": "한적한 주택가에 있는 사원으로 마네키네코의 발상지로 유명합니다. 다양한 크기와 종류의 마네키네코가 한가득."
+      },
+      {
+        "id": "05",
+        "img": [
+          { "url": "../img/location-data/location9/spot5-1.jpg" },
+          { "url": "../img/location-data/location9/spot5-2.jpg" },
+          { "url": "../img/location-data/location9/spot5-3.jpg" },
+          { "url": "../img/location-data/location9/spot5-4.jpg" },
+          { "url": "../img/location-data/location9/spot5-5.jpg" },
+          { "url": "../img/location-data/location9/spot5-6.jpg" }
+        ],
+        "title": "센소지",
+        "detail": "아사쿠사의 상징적인 명소. 절 바로 앞에 있는 나카미세도리는 일본의 전통적인 마을 분위기를 맛볼 수 있습니다."
+      },
+      {
+        "id": "06",
+        "img": [
+          { "url": "../img/location-data/location9/spot6-1.jpg" },
+          { "url": "../img/location-data/location9/spot6-2.jpg" },
+          { "url": "../img/location-data/location9/spot6-3.jpg" },
+          { "url": "../img/location-data/location9/spot6-4.jpg" },
+          { "url": "../img/location-data/location9/spot6-5.jpg" },
+          { "url": "../img/location-data/location9/spot6-6.jpg" }
+        ],
+        "title": "도쿄 스카이트리",
+        "detail": "높이 634m의 세계에서 가장 높은 타워. 전망대에서 도쿄 거리의 파노라마 뷰를 즐겨 주십시오."
+      }
+    ]
+  },
+  "location10": {
+    "id": "하코네",
+    "category": "간토",
+    "img": [
+      { "url": "./img/location-data/location10/location10_front.jpg" },
+      { "url": "./img/location-data/location10/location10_front_map.svg" }
+    ],
+    "post": "../img/location-data/location10/location10_head.jpg",
+    "place": "가나가와 추천 명소",
+    "title": "하코네, 가마쿠라, 요코하마:아름다운 바다와 산을 만끽",
+    "topic": "도쿄에서 손쉽게 찾아갈 수 있는 가나가와현의 자연과 사원, 도회적인 거리를 만끽하자",
+    "detail": "수많은 관광 명소와 박물관이 있으며 시내 중심부에서 손쉽게 찾아갈 수 있는 온천 리조트로 유명한 하코네. 산과 바다로 둘러싸여 오래된 사원과 신사가 많은 역사적 거리, 가마쿠라나 자연으로 둘러싸인 에노시마도 매력적. 눈앞에 바다가 펼쳐진 요코하마의 호화로운 야경을 즐겨 주십시오.",
+    "map": "../img/location-data/location3/location10_intro_positionmap.svg",
+    "spot": [
+      {
+        "id": "01",
+        "img": [
+          { "url": "../img/location-data/location10/spot1-1.jpg" },
+          { "url": "../img/location-data/location10/spot1-2.jpg" },
+          { "url": "../img/location-data/location10/spot1-3.jpg" },
+          { "url": "../img/location-data/location10/spot1-4.jpg" },
+          { "url": "../img/location-data/location10/spot1-5.jpg" },
+          { "url": "../img/location-data/location10/spot1-6.jpg" }
+        ],
+        "title": "아시노코",
+        "detail": "후지산과 광대한 호수의 장관 경치, 주변에는 다양한 관광 명소가 있습니다. 해적선과 크루즈선으로 바다를 탐험합시다."
+      },
+      {
+        "id": "02",
+        "img": [
+          { "url": "../img/location-data/location10/spot2-1.jpg" },
+          { "url": "../img/location-data/location10/spot2-2.jpg" },
+          { "url": "../img/location-data/location10/spot2-3.jpg" },
+          { "url": "../img/location-data/location10/spot2-4.jpg" },
+          { "url": "../img/location-data/location10/spot2-5.jpg" },
+          { "url": "../img/location-data/location10/spot2-6.jpg" }
+        ],
+        "title": "오와쿠다니",
+        "detail": "약 3,000년 전 가미야마의 마지막 분화의 잔해로 형성. 하얀 연기가 황폐한 지면을 뒤덮고, 공기는 유황 냄새로 넘쳐납니다."
+      },
+      {
+        "id": "03",
+        "img": [
+          { "url": "../img/location-data/location10/spot3-1.jpg" },
+          { "url": "../img/location-data/location10/spot3-2.jpg" },
+          { "url": "../img/location-data/location10/spot3-3.jpg" },
+          { "url": "../img/location-data/location10/spot3-4.jpg" },
+          { "url": "../img/location-data/location10/spot3-5.jpg" },
+          { "url": "../img/location-data/location10/spot3-6.jpg" }
+        ],
+        "title": "오카다 미술관",
+        "detail": "하코네의 자연으로 둘러싸인 하코네 최대의 아트 갤러리. 드넓은 정원 이외에도 족탕이 있는 카페가 있습니다."
+      },
+      {
+        "id": "04",
+        "img": [
+          { "url": "../img/location-data/location10/spot4-1.jpg" },
+          { "url": "../img/location-data/location10/spot4-2.jpg" },
+          { "url": "../img/location-data/location10/spot4-3.jpg" },
+          { "url": "../img/location-data/location10/spot4-4.jpg" },
+          { "url": "../img/location-data/location10/spot4-5.jpg" },
+          { "url": "../img/location-data/location10/spot4-6.jpg" }
+        ],
+        "title": "호텔 인디고 하코네 고라",
+        "detail": "하코네의 현지 문화와 자연을 이 부티크 호텔에서 즐깁시다. 모든 객실에 천연 온천 욕조가 갖춰져 있습니다."
+      },
+      {
+        "id": "05",
+        "img": [
+          { "url": "../img/location-data/location10/spot5-1.jpg" },
+          { "url": "../img/location-data/location10/spot5-2.jpg" },
+          { "url": "../img/location-data/location10/spot5-3.jpg" },
+          { "url": "../img/location-data/location10/spot5-4.jpg" },
+          { "url": "../img/location-data/location10/spot5-5.jpg" },
+          { "url": "../img/location-data/location10/spot5-6.jpg" }
+        ],
+        "title": "가마쿠라",
+        "detail": "산과 바다로 둘러싸인 역사적인 거리. 사원과 사시사철의 아름다움, 해안선에 있는 전망 좋은 장소 등 매력이 가득합니다."
+      },
+      {
+        "id": "06",
+        "img": [
+          { "url": "../img/location-data/location10/spot6-1.jpg" },
+          { "url": "../img/location-data/location10/spot6-2.jpg" },
+          { "url": "../img/location-data/location10/spot6-3.jpg" },
+          { "url": "../img/location-data/location10/spot6-4.jpg" },
+          { "url": "../img/location-data/location10/spot6-5.jpg" },
+          { "url": "../img/location-data/location10/spot6-6.jpg" }
+        ],
+        "title": "미나토미라이",
+        "detail": "요코하마에서 가장 인기 있는 관광 지역으로 랜드마크 타워, 아카렌가 창고, 대관람차 코스모 클락 21이 있습니다. 훌륭한 야경도 유명."
+      },
+      {
+        "id": "07",
+        "img": [
+          { "url": "../img/location-data/location10/spot7-1.jpg" },
+          { "url": "../img/location-data/location10/spot7-2.jpg" },
+          { "url": "../img/location-data/location10/spot7-3.jpg" },
+          { "url": "../img/location-data/location10/spot7-4.jpg" },
+          { "url": "../img/location-data/location10/spot7-5.jpg" },
+          { "url": "../img/location-data/location10/spot7-6.jpg" }
+        ],
+        "title": "신요코하마 라멘 박물관",
+        "detail": "세계 최초의 음식을 주제로 한 어뮤즈먼트 파크. 전국 각지의 유명한 라멘 가게가 이곳에 모여 있으며 향수를 불러일으키는 분위기가 감돕니다."
+      }
+    ]
+  },
+  "location11": {
+    "id": "후지산",
+    "category": "주부",
+    "img": [
+      { "url": "./img/location-data/location11/location11_front.jpg" },
+      { "url": "./img/location-data/location11/location11_front_map.svg" }
+    ],
+    "post": "../img/location-data/location11/location11_head.jpg",
+    "place": "여름에 즐기는 야마나시와 나가노",
+    "title": "후지산과 일본 알프스: 대자연 어드벤처와 신비한 문화 체험",
+    "topic": "여름의 후지산과 일본 알프스의 녹음에 둘러싸여 천혜의 자연으로 마음을 정화하자",
+    "detail": "후지산과 일본 알프스를 품은 야마나시와 나가노. 웅대한 자연을 느낄 수 있는 액티비티를 즐길 수 있습니다. 또한 숙방 체험과 신사 참배를 통해 신비한 일본 전통문화의 진수를 접하고 몸과 마음을 디톡스합시다.",
+    "map": "../img/location-data/location11/location11_intro_positionmap.svg",
+    "spot": [
+      {
+        "id": "01",
+        "img": [
+          { "url": "../img/location-data/location11/spot1-1.jpg" },
+          { "url": "../img/location-data/location11/spot1-2.jpg" },
+          { "url": "../img/location-data/location11/spot1-3.jpg" },
+          { "url": "../img/location-data/location11/spot1-4.jpg" },
+          { "url": "../img/location-data/location11/spot1-5.jpg" },
+          { "url": "../img/location-data/location11/spot1-6.jpg" }
+        ],
+        "title": "후지산",
+        "detail": "일본에서 가장 높은 산으로 알려진 후지산. 여름에는 등산을 할 수 있으며, 특히 정상에서 보는 해돋이는 놓칠 수 없는 절경입니다. 주변에서 바라보는 후지산은 균형 잡힌 모습이 매우 아름다우며, 등산 후에는 가와구치 호수의 온천에 몸을 담그면서 바라보는 것은 어떠십니까?"
+      },
+      {
+        "id": "02",
+        "img": [
+          { "url": "../img/location-data/location11/spot2-1.jpg" },
+          { "url": "../img/location-data/location11/spot2-2.jpg" },
+          { "url": "../img/location-data/location11/spot2-3.jpg" },
+          { "url": "../img/location-data/location11/spot2-4.jpg" },
+          { "url": "../img/location-data/location11/spot2-5.jpg" },
+          { "url": "../img/location-data/location11/spot2-6.jpg" }
+        ],
+        "title": "야마나카 호",
+        "detail": "사이클링 로드가 정비되어 후지산을 바라보면서 웅대한 자연을 느끼고 호반을 달리는 것을 추천합니다. 10월 ~ 2월에는 후지산 정상부와 태양이 겹치는 ‘다이아몬드 후지’를 볼 수 있습니다."
+      },
+      {
+        "id": "03",
+        "img": [
+          { "url": "../img/location-data/location11/spot3-1.jpg" },
+          { "url": "../img/location-data/location11/spot3-2.jpg" },
+          { "url": "../img/location-data/location11/spot3-3.jpg" },
+          { "url": "../img/location-data/location11/spot3-4.jpg" },
+          { "url": "../img/location-data/location11/spot3-5.jpg" },
+          { "url": "../img/location-data/location11/spot3-6.jpg" }
+        ],
+        "title": "고슈시 가쓰누마 부도노오카",
+        "detail": "포도의 산지, 야마나시현 고슈시의 고지대에 있어 광대한 포도밭이 자아내는 풍경을 눈 아래로 즐길 수 있습니다. 200종류의 와인을 시음할 수 있습니다. 또한 숙박 시설 및 온천, 레스토랑이 병설되어 있으므로 포도의 산지를 느긋하게 즐길 수 있습니다."
+      },
+      {
+        "id": "04",
+        "img": [
+          { "url": "../img/location-data/location11/spot4-1.jpg" },
+          { "url": "../img/location-data/location11/spot4-2.jpg" },
+          { "url": "../img/location-data/location11/spot4-3.jpg" },
+          { "url": "../img/location-data/location11/spot4-4.jpg" },
+          { "url": "../img/location-data/location11/spot4-5.jpg" },
+          { "url": "../img/location-data/location11/spot4-6.jpg" }
+        ],
+        "title": "ZEN & BED 보게쓰안",
+        "detail": "보게쓰안은 선 체험을 통해 자신과 마주하는 체험형 숙박 시설입니다. 숙박하면서 좌선이나 사찰 요리를 체험하고 몸과 마음을 정화할 수 있습니다. 선의 정신을 접하고 자신과 마주하는 시간을 보내 보시는 것은 어떻습니까? 숙박실은 개인실입니다만, 화장실과 샤워는 공용입니다."
+      },
+      {
+        "id": "05",
+        "img": [
+          { "url": "../img/location-data/location11/spot5-1.jpg" },
+          { "url": "../img/location-data/location11/spot5-2.jpg" },
+          { "url": "../img/location-data/location11/spot5-3.jpg" },
+          { "url": "../img/location-data/location11/spot5-4.jpg" },
+          { "url": "../img/location-data/location11/spot5-5.jpg" },
+          { "url": "../img/location-data/location11/spot5-6.jpg" }
+        ],
+        "title": "가미코치",
+        "detail": "대자연의 절경을 부담 없이 체험할 수 있는 가미코치는 인기가 많은 지역입니다. 몸과 마음을 치유해 주는 듯한 상쾌한 분위기에 휩싸입니다. 특히 갓파바시의 호타카 연봉을 배경으로 하는 장대한 경치는 놓칠 수 없습니다. 1일 하이킹 현지 플랜도 추천합니다."
+      },
+      {
+        "id": "06",
+        "img": [
+          { "url": "../img/location-data/location11/spot6-1.jpg" },
+          { "url": "../img/location-data/location11/spot6-2.jpg" },
+          { "url": "../img/location-data/location11/spot6-3.jpg" },
+          { "url": "../img/location-data/location11/spot6-4.jpg" },
+          { "url": "../img/location-data/location11/spot6-5.jpg" },
+          { "url": "../img/location-data/location11/spot6-6.jpg" }
+        ],
+        "title": "도가쿠시 신사",
+        "detail": "물을 관장하는 신, 구즈류가 산다고 하는 도가쿠시산. 그 산기슭을 중심으로 창건된 신사입니다. 대자연 속에서 5개의 신사로 이루어진 도가쿠시 고도를 걸으며 신비한 힘을 체감해 봅시다. 주변에는 일본 3대 소바로 유명한 ‘도가쿠시 소바’를 제공하는 가게가 많습니다."
+      },
+      {
+        "id": "07",
+        "img": [
+          { "url": "../img/location-data/location11/spot7-1.jpg" },
+          { "url": "../img/location-data/location11/spot7-2.jpg" },
+          { "url": "../img/location-data/location11/spot7-3.jpg" },
+          { "url": "../img/location-data/location11/spot7-4.jpg" },
+          { "url": "../img/location-data/location11/spot7-5.jpg" },
+          { "url": "../img/location-data/location11/spot7-6.jpg" }
+        ],
+        "title": "마쓰모토성",
+        "detail": "웅장하게 솟아오른 산들을 배경으로 보는 마쓰모토성의 위엄 있는 모습에 감동합니다. 마쓰모토성은 외관은 5층으로 보입니다만, 내부가 6단인 구조로, 현존하는 5층 6단의 천수각으로 일본에서 가장 오래된 것으로 전해집니다. 유료 가이드가 포함된 투어를 신청하여 성에 대한 이해의 폭을 넓혀 보시지 않겠습니까?"
+      }
+    ]
+  },
+  "location12": {
+    "id": "도야마",
+    "category": "주부",
+    "img": [
+      { "url": "./img/location-data/location12/location12_front.jpg" },
+      { "url": "./img/location-data/location12/location12_front_map.svg" }
+    ],
+    "post": "../img/location-data/location12/location12_head.jpg",
+    "place": "장엄한 도야마를 찾다",
+    "title": "웅대한 자연미에힐링되는 도야마의 봄 여행",
+    "topic": "봄의 도야마에서 설벽과 꽃 융단에 감싸인 채 마음을 빼앗길 정도의 절경을 만끽하자",
+    "detail": "하늘의 은총과 감동적인 풍경으로 가득한 도야마. 봄철에만 체험할 수 있는 유명한 구로베 알펜 루트의 설벽과 저절로 숨이 멎을 만큼 아름다운 경치에 마음이 치유됩니다. 형형색색의 꽃들이 만발하는 가운데 봄의 도래와 자연의 위대함을 꼭 박력 넘치게 느껴 주십시오.",
+    "map": "../img/location-data/location12/location12_intro_positionmap.svg",
+    "spot": [
+      {
+        "id": "01",
+        "img": [
+          { "url": "../img/location-data/location12/spot1-1.jpg" },
+          { "url": "../img/location-data/location12/spot1-2.jpg" },
+          { "url": "../img/location-data/location12/spot1-3.jpg" },
+          { "url": "../img/location-data/location12/spot1-4.jpg" },
+          { "url": "../img/location-data/location12/spot1-5.jpg" },
+          { "url": "../img/location-data/location12/spot1-6.jpg" }
+        ],
+        "title": "다테야마 구로베 알펜 루트",
+        "detail": "자연의 걸작을 가까이서 체험할 수 있는 산악 관광 루트. 일본 유일의 빙하, 일본에서 가장 높은 댐, 일본에서 가장 오래된 산장, 일본에서 가장 높은 곳에 있는 역 등 볼거리가 풍부합니다."
+      },
+      {
+        "id": "02",
+        "img": [
+          { "url": "../img/location-data/location12/spot2-1.jpg" },
+          { "url": "../img/location-data/location12/spot2-2.jpg" },
+          { "url": "../img/location-data/location12/spot2-3.jpg" },
+          { "url": "../img/location-data/location12/spot2-4.jpg" },
+          { "url": "../img/location-data/location12/spot2-5.jpg" },
+          { "url": "../img/location-data/location12/spot2-6.jpg" }
+        ],
+        "title": "매오징어 해상 관광",
+        "detail": "일 년 중 몇 개월밖에 볼 수 없는 빛의 패전트. 매오징어가 내뿜는 푸른빛이 해뜨기 전의 바다를 순식간에 환상의 세계로 이끕니다."
+      },
+      {
+        "id": "03",
+        "img": [
+          { "url": "../img/location-data/location12/spot3-1.jpg" },
+          { "url": "../img/location-data/location12/spot3-2.jpg" },
+          { "url": "../img/location-data/location12/spot3-3.jpg" },
+          { "url": "../img/location-data/location12/spot3-4.jpg" },
+          { "url": "../img/location-data/location12/spot3-5.jpg" },
+          { "url": "../img/location-data/location12/spot3-6.jpg" }
+        ],
+        "title": "구로베 협곡 철도 도롯코 열차",
+        "detail": "일본 3대 계곡, 일본의 비경 100선 중 하나인 구로베 협곡. 여러 다리와 터널을 빠져나오면서 대자연을 접하는 아늑한 투어 체험이 가능합니다."
+      },
+      {
+        "id": "04",
+        "img": [
+          { "url": "../img/location-data/location12/spot4-1.jpg" },
+          { "url": "../img/location-data/location12/spot4-2.jpg" },
+          { "url": "../img/location-data/location12/spot4-3.jpg" },
+          { "url": "../img/location-data/location12/spot4-4.jpg" },
+          { "url": "../img/location-data/location12/spot4-5.jpg" },
+          { "url": "../img/location-data/location12/spot4-6.jpg" }
+        ],
+        "title": "구로베, 우나즈키 온천",
+        "detail": "일본 최고의 투명도를 자랑하는 온천 입니다. 온천은 물론 신선한 해산물과 협곡의 명수로 담근 토속주, 현지 맥주 등의 먹거리도 즐길 수 있는 힐링 명소입니다."
+      },
+      {
+        "id": "05",
+        "img": [
+          { "url": "../img/location-data/location12/spot5-1.jpg" },
+          { "url": "../img/location-data/location12/spot5-2.jpg" },
+          { "url": "../img/location-data/location12/spot5-3.jpg" },
+          { "url": "../img/location-data/location12/spot5-4.jpg" },
+          { "url": "../img/location-data/location12/spot5-5.jpg" },
+          { "url": "../img/location-data/location12/spot5-6.jpg" }
+        ],
+        "title": "봄의 사중주",
+        "detail": "그림으로도 그릴 수 없는 봄꽃과 나무들의 아름다움에 마음이 설레는 명소입니다. 기간 중에만 피우는 화톳불에 비친 밤 벚꽃도 또한 환상적입니다."
+      },
+      {
+        "id": "06",
+        "img": [
+          { "url": "../img/location-data/location12/spot6-1.jpg" },
+          { "url": "../img/location-data/location12/spot6-2.jpg" },
+          { "url": "../img/location-data/location12/spot6-3.jpg" },
+          { "url": "../img/location-data/location12/spot6-4.jpg" },
+          { "url": "../img/location-data/location12/spot6-5.jpg" },
+          { "url": "../img/location-data/location12/spot6-6.jpg" }
+        ],
+        "title": "이와세 거리",
+        "detail": "해상 운송 중개상이 늘어선 정취 있는 역사적인 장소입니다. 메이지 시대에 지어진 가옥이 많이 보존되어 있어 당시의 모습을 엿볼 수 있습니다."
+      },
+      {
+        "id": "07",
+        "img": [
+          { "url": "../img/location-data/location12/spot7-1.jpg" },
+          { "url": "../img/location-data/location12/spot7-2.jpg" },
+          { "url": "../img/location-data/location12/spot7-3.jpg" },
+          { "url": "../img/location-data/location12/spot7-4.jpg" },
+          { "url": "../img/location-data/location12/spot7-5.jpg" },
+          { "url": "../img/location-data/location12/spot7-6.jpg" }
+        ],
+        "title": "이케다야 야스베에 상점",
+        "detail": "선물하기에도 좋은, 도야마의 문화를 지탱해 온 역사적인 약방입니다. 약사의 상담을 받을 수도 있고 희망자는 무료로 약 만들기 체험을 할 수 있습니다."
+      }
+    ]
+  },
+  "location13": {
+    "id": "복고풍의 설경",
+    "category": "주부",
+    "img": [
+      { "url": "./img/location-data/location13/location13_front.jpg" },
+      { "url": "./img/location-data/location13/location13_front_map.svg" }
+    ],
+    "post": "../img/location-data/location13/location13_head.jpg",
+    "place": "도야마의 아름다운 자연을 체감",
+    "title": "복고풍의 설경 속에서힐링되는 도야마의 겨울 여행",
+    "topic": "환상적인 고카야마와 웅대한 쇼가와쿄가 돋보이는 겨울의 도야마에서 일본의 원초적인 풍경을 만나자",
+    "detail": "도야마에는 웅대한 자연, 온천, 신선한 해산물 등 오감으로 맛볼 수 있는 매력이 가득합니다. 그중에서도 세계 유산 고카야마는 수백 년 이상 유지, 보존된 마을 경관을 보유하고 있으며 겨울에는 주변 일대가 새하얗게 물든 설경 속에서 문화 체험이 가능합니다. 몸과 마음이 힐링되는 여행을 도야마에서 즐겨 주십시오.",
+    "map": "../img/location-data/location13/location13_intro_positionmap.svg",
+    "spot": [
+      {
+        "id": "01",
+        "img": [
+          { "url": "../img/location-data/location13/spot1-1.jpg" },
+          { "url": "../img/location-data/location13/spot1-2.jpg" },
+          { "url": "../img/location-data/location13/spot1-3.jpg" },
+          { "url": "../img/location-data/location13/spot1-4.jpg" },
+          { "url": "../img/location-data/location13/spot1-5.jpg" },
+          { "url": "../img/location-data/location13/spot1-6.jpg" }
+        ],
+        "title": "다칸보 스키장",
+        "detail": "세계 유산 갓쇼즈쿠리 마을을 눈 아래로 바라볼 수 있는 전망 좋은 스키장입니다. 눈 놀이부터 본격적인 스키까지 자신의 스타일대로 즐길 수 있습니다."
+      },
+      {
+        "id": "02",
+        "img": [
+          { "url": "../img/location-data/location13/spot2-1.jpg" },
+          { "url": "../img/location-data/location13/spot2-2.jpg" },
+          { "url": "../img/location-data/location13/spot2-3.jpg" },
+          { "url": "../img/location-data/location13/spot2-4.jpg" },
+          { "url": "../img/location-data/location13/spot2-5.jpg" },
+          { "url": "../img/location-data/location13/spot2-6.jpg" }
+        ],
+        "title": "아이노쿠라 갓쇼즈쿠리 마을",
+        "detail": "역사적 풍경을 지금도 간직한 이 마을에는 다양한 이야기가 있습니다. 마을 내에서는 여전히 사람들이 생활을 영위하고 있으며, 세계적으로도 희귀한 '사람이 거주하는 세계 유산'입니다."
+      },
+      {
+        "id": "03",
+        "img": [
+          { "url": "../img/location-data/location13/spot3-1.jpg" },
+          { "url": "../img/location-data/location13/spot3-2.jpg" },
+          { "url": "../img/location-data/location13/spot3-3.jpg" },
+          { "url": "../img/location-data/location13/spot3-4.jpg" },
+          { "url": "../img/location-data/location13/spot3-5.jpg" },
+          { "url": "../img/location-data/location13/spot3-6.jpg" }
+        ],
+        "title": "쇼가와쿄 유람선",
+        "detail": "숨 막히는 아름다움을 간직한 쇼가와쿄에서는 대자연의 예술을 온몸으로 즐길 수 있습니다. 흔들리는 유람선 위에서 절경을 탐미하는 시간은 마음을 해방시켜 줍니다."
+      },
+      {
+        "id": "04",
+        "img": [
+          { "url": "../img/location-data/location13/spot4-1.jpg" },
+          { "url": "../img/location-data/location13/spot4-2.jpg" },
+          { "url": "../img/location-data/location13/spot4-3.jpg" },
+          { "url": "../img/location-data/location13/spot4-4.jpg" },
+          { "url": "../img/location-data/location13/spot4-5.jpg" },
+          { "url": "../img/location-data/location13/spot4-6.jpg" }
+        ],
+        "title": "오마키 온천",
+        "detail": "배로만 도달할 수 있는 대자연에 둘러싸인 숨은 온천 료칸입니다. 노천탕에서 바라보는 은백색 세계는 각별합니다. 눈으로 뒤덮인 산골짜기의 수묵화 세계에서 호화로운 시간을 보내 보시지 않겠습니까?"
+      },
+      {
+        "id": "05",
+        "img": [
+          { "url": "../img/location-data/location13/spot5-1.jpg" },
+          { "url": "../img/location-data/location13/spot5-2.jpg" },
+          { "url": "../img/location-data/location13/spot5-3.jpg" },
+          { "url": "../img/location-data/location13/spot5-4.jpg" },
+          { "url": "../img/location-data/location13/spot5-5.jpg" },
+          { "url": "../img/location-data/location13/spot5-6.jpg" }
+        ],
+        "title": "신미나토 깃토키토 시장",
+        "detail": "진귀한 낮 경매를 체험할 수 있는 어항입니다. 어종도 어획량도 풍부한 신미나토 어항의 경매인과 구매자가 진지하게 주고받는 광경은 압권입니다."
+      },
+      {
+        "id": "06",
+        "img": [
+          { "url": "../img/location-data/location13/spot6-1.jpg" },
+          { "url": "../img/location-data/location13/spot6-2.jpg" },
+          { "url": "../img/location-data/location13/spot6-3.jpg" },
+          { "url": "../img/location-data/location13/spot6-4.jpg" },
+          { "url": "../img/location-data/location13/spot6-5.jpg" },
+          { "url": "../img/location-data/location13/spot6-6.jpg" }
+        ],
+        "title": "아마하라시 해안",
+        "detail": "프랑스 몽생미셸만, 미국 샌프란시스코만과 마찬가지로 '세계에서 가장 아름다운 만 클럽'에도 가입되어 있습니다. 눈 쌓인 다테야마 연봉과 도야마만의 웅대한 경관은 그야말로 절경입니다."
+      },
+      {
+        "id": "07",
+        "img": [
+          { "url": "../img/location-data/location13/spot7-1.jpg" },
+          { "url": "../img/location-data/location13/spot7-2.jpg" },
+          { "url": "../img/location-data/location13/spot7-3.jpg" },
+          { "url": "../img/location-data/location13/spot7-4.jpg" },
+          { "url": "../img/location-data/location13/spot7-5.jpg" },
+          { "url": "../img/location-data/location13/spot7-6.jpg" }
+        ],
+        "title": "후간 운하 환수 공원",
+        "detail": "세계에서 가장 아름다운 경관으로 선정된 카페가 있는 관광 명소입니다. 자연의 아름다움과 물가의 반짝임, 여유롭게 흐르는 시간이 마음을 치유해 주며, 밤의 야간 조명도 또한 환상적입니다."
+      }
+    ]
+  },
+  "location14": {
+    "id": "다테야마 구로베",
+    "category": "주부",
+    "img": [
+      { "url": "./img/location-data/location14/location14_front.jpg" },
+      { "url": "./img/location-data/location14/location14_front_map.svg" }
+    ],
+    "post": "../img/location-data/location14/location14_head.jpg",
+    "place": "호쿠리쿠의 볼거리",
+    "title": "다테야마 구로베 알펜 루트나 겐로쿠엔에서 일본의 풍경을 체감",
+    "topic": "궁극의 로드 트립에서 만나는 호쿠리쿠의 훌륭한 절경",
+    "detail": "다테야마 구로베 알펜 루트의 아름다운 자연, 고카야마의 전통적인 일본의 건축, 그리고 일본 유수의 정원 중 하나인 겐로쿠엔을 방문합니다. 가나자와의 구시가지를 탐방하고 지리하마 나기사 드라이브웨이의 해변을 차로 달리면서 시로요네 센마이다를 보러 갑니다. 초여름에 추천하는 로드 트립입니다.",
+    "map": "../img/location-data/location14/location14_intro_positionmap.svg",
+    "spot": [
+      {
+        "id": "01",
+        "img": [
+          { "url": "../img/location-data/location14/spot1-1.jpg" },
+          { "url": "../img/location-data/location14/spot1-2.jpg" },
+          { "url": "../img/location-data/location14/spot1-3.jpg" },
+          { "url": "../img/location-data/location14/spot1-4.jpg" },
+          { "url": "../img/location-data/location14/spot1-5.jpg" },
+          { "url": "../img/location-data/location14/spot1-6.jpg" }
+        ],
+        "title": "다테야마 구로베 알펜 루트",
+        "detail": "웅대한 자연과 절경을 즐길 수 있는 산악 관광 루트. 일본 3대 협곡 중 하나인 구로베 계곡에는 일본에서 가장 높은 구로베 댐이 있으며, 그 박력은 압권입니다."
+      },
+      {
+        "id": "02",
+        "img": [
+          { "url": "../img/location-data/location14/spot2-1.jpg" },
+          { "url": "../img/location-data/location14/spot2-2.jpg" },
+          { "url": "../img/location-data/location14/spot2-3.jpg" },
+          { "url": "../img/location-data/location14/spot2-4.jpg" },
+          { "url": "../img/location-data/location14/spot2-5.jpg" },
+          { "url": "../img/location-data/location14/spot2-6.jpg" }
+        ],
+        "title": "고카야마",
+        "detail": "옛 모습 그대로 시간이 멈춘 듯한 세계 유산."
+      },
+      {
+        "id": "03",
+        "img": [
+          { "url": "../img/location-data/location14/spot3-1.jpg" },
+          { "url": "../img/location-data/location14/spot3-2.jpg" },
+          { "url": "../img/location-data/location14/spot3-3.jpg" },
+          { "url": "../img/location-data/location14/spot3-4.jpg" },
+          { "url": "../img/location-data/location14/spot3-5.jpg" },
+          { "url": "../img/location-data/location14/spot3-6.jpg" }
+        ],
+        "title": "겐로쿠엔",
+        "detail": "국가 특별 명승지로 지정된 유명한 일본 정원. 일본 3대 유명 정원 중 하나로 널리 알려져 있습니다."
+      },
+      {
+        "id": "04",
+        "img": [
+          { "url": "../img/location-data/location14/spot4-1.jpg" },
+          { "url": "../img/location-data/location14/spot4-2.jpg" },
+          { "url": "../img/location-data/location14/spot4-3.jpg" },
+          { "url": "../img/location-data/location14/spot4-4.jpg" },
+          { "url": "../img/location-data/location14/spot4-5.jpg" },
+          { "url": "../img/location-data/location14/spot4-6.jpg" }
+        ],
+        "title": "히가시 찻집 거리",
+        "detail": "에도 시대로 타임 슬립한 듯한 거리를 탐방합시다."
+      },
+      {
+        "id": "05",
+        "img": [
+          { "url": "../img/location-data/location14/spot5-1.jpg" },
+          { "url": "../img/location-data/location14/spot5-2.jpg" },
+          { "url": "../img/location-data/location14/spot5-3.jpg" },
+          { "url": "../img/location-data/location14/spot5-4.jpg" },
+          { "url": "../img/location-data/location14/spot5-5.jpg" },
+          { "url": "../img/location-data/location14/spot5-6.jpg" }
+        ],
+        "title": "지리하마 나기사 드라이브웨이",
+        "detail": "해변을 차로 달릴 수 있는 일본에서 유일한 모래사장."
+      },
+      {
+        "id": "06",
+        "img": [
+          { "url": "../img/location-data/location14/spot6-1.jpg" },
+          { "url": "../img/location-data/location14/spot6-2.jpg" },
+          { "url": "../img/location-data/location14/spot6-3.jpg" },
+          { "url": "../img/location-data/location14/spot6-4.jpg" },
+          { "url": "../img/location-data/location14/spot6-5.jpg" },
+          { "url": "../img/location-data/location14/spot6-6.jpg" }
+        ],
+        "title": "시로요네 센마이다",
+        "detail": "동해가 내려다보이는 작은 계단식 논이 무수히 늘어서 있습니다."
+      }
+    ]
+  },
+  "location15": {
+    "id": "고야산에서의 숙방",
+    "category": "간사이",
+    "img": [
+      { "url": "./img/location-data/location15/location15_front.jpg" },
+      { "url": "./img/location-data/location15/location15_front_map.svg" }
+    ],
+    "post": "../img/location-data/location15/location15_head.jpg",
+    "place": "전철로 돌아보는 간사이: 고야산",
+    "title": "고야산에서의 숙방 체험을 통해 일본의 불교문화를 접하는 여행",
+    "topic": "유네스코 세계 유산에도 등록된 고야산에서 몸도 마음도 정화되는 여행",
+    "detail": "고보 대사가 창건한 일본 불교의 일대 성지인 고야산은 2004년에 유네스코 세계 유산에 등록되었으며, 미슐랭 여행 가이드 일본판에서도 3스타를 획득하며 높은 평가를 받는 관광지입니다. 관광 티켓을 사용하여 숙방 체험을 중심으로 일본의 불교문화를 접할 수 있는 코스를 소개합니다.",
+    "map": "../img/location-data/location15/location15_intro_positionmap.svg",
+    "spot": [
+      {
+        "id": "01",
+        "img": [
+          { "url": "../img/location-data/location15/spot1-1.jpg" },
+          { "url": "../img/location-data/location15/spot1-2.jpg" },
+          { "url": "../img/location-data/location15/spot1-3.jpg" },
+          { "url": "../img/location-data/location15/spot1-4.jpg" },
+          { "url": "../img/location-data/location15/spot1-5.jpg" },
+          { "url": "../img/location-data/location15/spot1-6.jpg" }
+        ],
+        "title": "오쿠노인",
+        "detail": "오쿠노인은 구카이가 입정한 고야산에서 가장 중요한 성지 중 하나입니다. 이치노하시에서 고뵤까지 약 2km의 참배길에는 20만 기가 넘는 공양탑과 수령 400년이 넘는 거대한 삼나무가 늘어서 있으며, 고야산의 독특한 경관을 자아내고 있습니다."
+      },
+      {
+        "id": "02",
+        "img": [
+          { "url": "../img/location-data/location15/spot2-1.jpg" },
+          { "url": "../img/location-data/location15/spot2-2.jpg" },
+          { "url": "../img/location-data/location15/spot2-3.jpg" },
+          { "url": "../img/location-data/location15/spot2-4.jpg" },
+          { "url": "../img/location-data/location15/spot2-5.jpg" },
+          { "url": "../img/location-data/location15/spot2-6.jpg" }
+        ],
+        "title": "단조가란",
+        "detail": "816년에 고보 대사 구카이가 사가 천황에게 고야산을 하사받고 승려와 노동자를 동반하여 산을 올랐으며, 먼저 당탑 가람 건설에 착수한 고야산 진언종 총본산 곤고부지를 창건한 곳입니다. 1년 내내 다양한 중요 종교 행사가 이곳에서 거행되는, 고야산의 중심 성지 중 하나입니다."
+      },
+      {
+        "id": "03",
+        "img": [
+          { "url": "../img/location-data/location15/spot3-1.jpg" },
+          { "url": "../img/location-data/location15/spot3-2.jpg" },
+          { "url": "../img/location-data/location15/spot3-3.jpg" },
+          { "url": "../img/location-data/location15/spot3-4.jpg" },
+          { "url": "../img/location-data/location15/spot3-5.jpg" },
+          { "url": "../img/location-data/location15/spot3-6.jpg" }
+        ],
+        "title": "곤고부지 절",
+        "detail": "고야산 진언종의 총본산. 지금도 승려를 육성하고 있으며 전국뿐만 아니라 해외에도 퍼진 말사 3,600개사를 통솔하고 있습니다. 일본 최대의 석조 정원 '반류테이' 등 볼거리도 가득합니다."
+      },
+      {
+        "id": "04",
+        "img": [
+          { "url": "../img/location-data/location15/spot4-1.jpg" },
+          { "url": "../img/location-data/location15/spot4-2.jpg" },
+          { "url": "../img/location-data/location15/spot4-3.jpg" },
+          { "url": "../img/location-data/location15/spot4-4.jpg" },
+          { "url": "../img/location-data/location15/spot4-5.jpg" },
+          { "url": "../img/location-data/location15/spot4-6.jpg" }
+        ],
+        "title": "닌토쿠 천황릉 고분, 다이센 공원",
+        "detail": "2019년 7월에 유네스코 세계 문화유산에 등록된 모즈 후루이치 고분군. 그중에서도 닌토쿠 천황릉 고분은 세계 3대 분묘 중 하나로 불리며 상공에서 보면 원과 사각형을 합체한 전방후원분이라는 일본의 독자적인 형태로 5세기 중기에 약 20년에 걸쳐 축조된 것으로 추정됩니다."
+      },
+      {
+        "id": "05",
+        "img": [
+          { "url": "../img/location-data/location15/spot5-1.jpg" },
+          { "url": "../img/location-data/location15/spot5-2.jpg" },
+          { "url": "../img/location-data/location15/spot5-3.jpg" },
+          { "url": "../img/location-data/location15/spot5-4.jpg" },
+          { "url": "../img/location-data/location15/spot5-5.jpg" },
+          { "url": "../img/location-data/location15/spot5-6.jpg" }
+        ],
+        "title": "다료 쓰보이치 제다 본점",
+        "detail": "다성 (茶聖) 센노 리큐의 고향인 사카이의 마을에서 창업 170년의 역사를 가진 유서 깊은 찻집입니다. 차분한 점내에서 엄선된 차를 만끽할 수 있습니다."
+      },
+      {
+        "id": "06",
+        "img": [
+          { "url": "../img/location-data/location15/spot6-1.jpg" },
+          { "url": "../img/location-data/location15/spot6-2.jpg" },
+          { "url": "../img/location-data/location15/spot6-3.jpg" },
+          { "url": "../img/location-data/location15/spot6-4.jpg" },
+          { "url": "../img/location-data/location15/spot6-5.jpg" },
+          { "url": "../img/location-data/location15/spot6-6.jpg" }
+        ],
+        "title": "가다 사카나선 '메데타이 전철'",
+        "detail": "차 내외를 '가다의 도미'와 '아와시마 신사의 인연 맺기'를 이미지화해 장식하여 타기만 해도 '경사스러운 (오메데타이)' 기분이 들어 계속 타고 싶어지고 '애용하고 싶게 (메데타쿠)' 만드는, 이곳에만 있는 디자인의 전철입니다."
+      },
+      {
+        "id": "07",
+        "img": [
+          { "url": "../img/location-data/location15/spot7-1.jpg" },
+          { "url": "../img/location-data/location15/spot7-2.jpg" },
+          { "url": "../img/location-data/location15/spot7-3.jpg" },
+          { "url": "../img/location-data/location15/spot7-4.jpg" },
+          { "url": "../img/location-data/location15/spot7-5.jpg" },
+          { "url": "../img/location-data/location15/spot7-6.jpg" }
+        ],
+        "title": "아와시마 신사",
+        "detail": "아와시마 신사는 인형 공양이나 히나나가시라는 제사로 알려진 아와시마 신사의 본전에는 공양을 위해 2만 개로도 알려진 히나 인형이 봉납되어 있습니다."
+      }
+    ]
+  },
+  "location16": {
+    "id": "호화 관광 특급",
+    "category": "간사이",
+    "img": [
+      { "url": "./img/location-data/location16/location16_front.jpg" },
+      { "url": "./img/location-data/location16/location16_front_map.svg" }
+    ],
+    "post": "../img/location-data/location16/location16_head.jpg",
+    "place": "전철로 돌아보는 간사이:요시노야마",
+    "title": "호화 관광 특급으로 가는, 일본의 사계절을 맛보는 어른의 여행",
+    "topic": "세계 유산인 '요시노야마'와 일본 최초의 수도 '아스카'에서 아름다운 일본과 만나다",
+    "detail": "요시노야마는 일본 최고의 벚꽃 명소로 알려져 있습니다만, 가을에는 산들이 붉게 물든 단풍을 즐길 수 있는 등 사계절 내내 매력을 느낄 수 있습니다. 호화 관광 특급으로 요시노야마를 비롯하여 일본의 역사를 느낄 수 있는 아스카 등을 방문하여 다양한 체험을 통해 일본의 사계절을 만끽할 수 있는 코스를 소개합니다.",
+    "map": "../img/location-data/location16/location16_intro_positionmap.svg",
+    "spot": [
+      {
+        "id": "01",
+        "img": [
+          { "url": "../img/location-data/location16/spot1-1.jpg" },
+          { "url": "../img/location-data/location16/spot1-2.jpg" },
+          { "url": "../img/location-data/location16/spot1-3.jpg" },
+          { "url": "../img/location-data/location16/spot1-4.jpg" },
+          { "url": "../img/location-data/location16/spot1-5.jpg" },
+          { "url": "../img/location-data/location16/spot1-6.jpg" }
+        ],
+        "title": "관광 특급 Blue Symphony",
+        "detail": "오사카 아베노바시역에서 나라현의 요시노를 잇는 'Blue Symphony'는 '고급스러운 어른의 여행'을 콘셉트로 한 관광 특급입니다. 좌석은 모두 디럭스 좌석이며 카페 차량에서는 연선의 유명 가게 디저트나 과자 외에 요시노의 토속주를 즐길 수 있습니다."
+      },
+      {
+        "id": "02",
+        "img": [
+          { "url": "../img/location-data/location16/spot2-1.jpg" },
+          { "url": "../img/location-data/location16/spot2-2.jpg" },
+          { "url": "../img/location-data/location16/spot2-3.jpg" },
+          { "url": "../img/location-data/location16/spot2-4.jpg" },
+          { "url": "../img/location-data/location16/spot2-5.jpg" },
+          { "url": "../img/location-data/location16/spot2-6.jpg" }
+        ],
+        "title": "하나야구라 전망대",
+        "detail": "요시노야마 굴지의 전망 명소. 눈 아래에 가미센본, 나카센본의 조망이 펼쳐져 있고 봄에는 시모센본에서 피어나는 벚꽃을 파노라마로 즐길 수 있습니다."
+      },
+      {
+        "id": "03",
+        "img": [
+          { "url": "../img/location-data/location16/spot3-1.jpg" },
+          { "url": "../img/location-data/location16/spot3-2.jpg" },
+          { "url": "../img/location-data/location16/spot3-3.jpg" },
+          { "url": "../img/location-data/location16/spot3-4.jpg" },
+          { "url": "../img/location-data/location16/spot3-5.jpg" },
+          { "url": "../img/location-data/location16/spot3-6.jpg" }
+        ],
+        "title": "TSUJIMURA & Café kiton",
+        "detail": "요시노 갈분의 우아한 과자와 맛있는 야마토 차를 마실 수 있는 카페. 가게 안에는 따뜻한 목재 공간이 펼쳐져 있어 느긋한 시간을 보낼 수 있습니다. 또한 토요일과 일요일 한정으로 점심 식사 영업도 하고 있습니다."
+      },
+      {
+        "id": "04",
+        "img": [
+          { "url": "../img/location-data/location16/spot4-1.jpg" },
+          { "url": "../img/location-data/location16/spot4-2.jpg" },
+          { "url": "../img/location-data/location16/spot4-3.jpg" },
+          { "url": "../img/location-data/location16/spot4-4.jpg" },
+          { "url": "../img/location-data/location16/spot4-5.jpg" },
+          { "url": "../img/location-data/location16/spot4-6.jpg" }
+        ],
+        "title": "경승지 료칸 호운칸",
+        "detail": "요시노야마의 가미센본에 위치한 료칸 '호운칸'은 방과 절경 노천탕에서 요시노야마를 가득 메운 벚꽃을 한눈에 볼 수 있습니다. 또한 가을에는 일대의 단풍, 겨울에는 설경 등 계절의 변화를 즐길 수 있습니다."
+      },
+      {
+        "id": "05",
+        "img": [
+          { "url": "../img/location-data/location16/spot5-1.jpg" },
+          { "url": "../img/location-data/location16/spot5-2.jpg" },
+          { "url": "../img/location-data/location16/spot5-3.jpg" },
+          { "url": "../img/location-data/location16/spot5-4.jpg" },
+          { "url": "../img/location-data/location16/spot5-5.jpg" },
+          { "url": "../img/location-data/location16/spot5-6.jpg" }
+        ],
+        "title": "긴푸센지 (자오도)",
+        "detail": "높이 약 34m의 자오도는 도다이지 대불전에 버금가는 목조 고건축으로 요시노야마의 상징입니다. 매일 아침의 아사자곤교는 요시노야마에 숙박하는 분만 참가할 수 있는 특별한 체험으로 특별히 추천합니다."
+      },
+      {
+        "id": "06",
+        "img": [
+          { "url": "../img/location-data/location16/spot6-1.jpg" },
+          { "url": "../img/location-data/location16/spot6-2.jpg" },
+          { "url": "../img/location-data/location16/spot6-3.jpg" },
+          { "url": "../img/location-data/location16/spot6-4.jpg" },
+          { "url": "../img/location-data/location16/spot6-5.jpg" },
+          { "url": "../img/location-data/location16/spot6-6.jpg" }
+        ],
+        "title": "아스카무라",
+        "detail": "아스카무라는 약 1,400년 전에 일본에서 최초로 수도가 놓였다고 하며, 지금도 당시의 고분과 유적이 다수 남아 있습니다. 또한 '일본의 계단식 논 100선'에 꼽힌 '이나부치 계단식 논'은 한번 볼만한 가치가 있습니다."
+      },
+      {
+        "id": "07",
+        "img": [
+          { "url": "../img/location-data/location16/spot7-1.jpg" },
+          { "url": "../img/location-data/location16/spot7-2.jpg" },
+          { "url": "../img/location-data/location16/spot7-3.jpg" },
+          { "url": "../img/location-data/location16/spot7-4.jpg" },
+          { "url": "../img/location-data/location16/spot7-5.jpg" },
+          { "url": "../img/location-data/location16/spot7-6.jpg" }
+        ],
+        "title": "햐쿠라쿠소",
+        "detail": "1만 평의 일본 정원으로 둘러싸인 요정 '햐쿠라쿠소'. 일본 요리의 정수를 모은 가이세키 요리나 다선 만들기, 다도 등 일본 문화를 체험할 수 있습니다."
+      }
+    ]
+  },
+  "location17": {
+    "id": "히에이잔 엔랴큐지",
+    "category": "간사이",
+    "img": [
+      { "url": "./img/location-data/location17/location17_front.jpg" },
+      { "url": "./img/location-data/location17/location17_front_map.svg" }
+    ],
+    "post": "../img/location-data/location17/location17_head.jpg",
+    "place": "전철로 돌아보는 간사이: 히에이잔",
+    "title": "히에이잔 엔랴쿠지의 풍부한 자연과 일본의 역사를 체감하는 여행",
+    "topic": "유네스코 세계 문화유산에도 등록된 히에이잔과 옛 수도 교토의 매력을 한 번에 맛보다",
+    "detail": "히에이잔 엔랴쿠지는 '일본 불교의 기원'으로 1,200년 이상 전에 사이초가 창건한 천태종 총본산. 그러한 히에이잔 엔랴쿠지의 관광을 주요 목적지로 일본주 시음과 다도 체험 등 교토의 후시미와 우지의 매력도 함께 담은 코스를 소개합니다.",
+    "map": "../img/location-data/location17/location17_intro_positionmap.svg",
+    "spot": [
+      {
+        "id": "01",
+        "img": [
+          { "url": "../img/location-data/location17/spot1-1.jpg" },
+          { "url": "../img/location-data/location17/spot1-2.jpg" },
+          { "url": "../img/location-data/location17/spot1-3.jpg" },
+          { "url": "../img/location-data/location17/spot1-4.jpg" },
+          { "url": "../img/location-data/location17/spot1-5.jpg" },
+          { "url": "../img/location-data/location17/spot1-6.jpg" }
+        ],
+        "title": "우지 시영 다실 다이호안",
+        "detail": "우지차의 진흥과 다도의 보급을 목적으로 세워진 본격적인 다실로 본고장의 우지차에 계절 과자를 곁들여 다도 예법을 갖추고 있습니다. 처음 오신 분께서도 부담 없이 차를 즐길 수 있습니다."
+      },
+      {
+        "id": "02",
+        "img": [
+          { "url": "../img/location-data/location17/spot2-1.jpg" },
+          { "url": "../img/location-data/location17/spot2-2.jpg" },
+          { "url": "../img/location-data/location17/spot2-3.jpg" },
+          { "url": "../img/location-data/location17/spot2-4.jpg" },
+          { "url": "../img/location-data/location17/spot2-5.jpg" },
+          { "url": "../img/location-data/location17/spot2-6.jpg" }
+        ],
+        "title": "오바쿠산 만푸쿠지",
+        "detail": "중국에서 건너온 승려 인겐이 1661년에 창건한 사원으로 선종의 하나인 황벽종의 본산입니다. 광대한 경내 안에 동서로 나란히 서 있는 가람 배치는 명나라 말기 중국 사원의 특징을 보이며, 일본에서는 유례가 없는 희귀한 것입니다."
+      },
+      {
+        "id": "03",
+        "img": [
+          { "url": "../img/location-data/location17/spot3-1.jpg" },
+          { "url": "../img/location-data/location17/spot3-2.jpg" },
+          { "url": "../img/location-data/location17/spot3-3.jpg" },
+          { "url": "../img/location-data/location17/spot3-4.jpg" },
+          { "url": "../img/location-data/location17/spot3-5.jpg" },
+          { "url": "../img/location-data/location17/spot3-6.jpg" }
+        ],
+        "title": "후시미 유메햐쿠슈",
+        "detail": "후시미 유메햐쿠슈'는 후시미의 양조장이 17곳이나 모여 있는 일본주 애호가는 지나칠 수 없는 일본주 카페입니다. 5종류의 시음 세트 외에 일본주 디저트나 주조용수로 탄 커피도 있어 술을 잘 마시지 못하는 사람도 충분히 즐길 수 있습니다."
+      },
+      {
+        "id": "04",
+        "img": [
+          { "url": "../img/location-data/location17/spot4-1.jpg" },
+          { "url": "../img/location-data/location17/spot4-2.jpg" },
+          { "url": "../img/location-data/location17/spot4-3.jpg" },
+          { "url": "../img/location-data/location17/spot4-4.jpg" },
+          { "url": "../img/location-data/location17/spot4-5.jpg" },
+          { "url": "../img/location-data/location17/spot4-6.jpg" }
+        ],
+        "title": "GOOD NATURE STATION",
+        "detail": "GOOD NATURE STATION은 교토 가와라마치에 있는 식료품이나 잡화류 가게, 레스토랑, 호텔을 갖춘 복합 시설입니다. 즐기면서 건강에 좋은 상품을 자신답게 받아들이는 생활을 보내자는 모토 아래 '몸, 마음, 지역, 사회, 지구'에 건강하고 행복한 것을 선택 기준으로 상품과 체험이 모여 있습니다."
+      },
+      {
+        "id": "05",
+        "img": [
+          { "url": "../img/location-data/location17/spot5-1.jpg" },
+          { "url": "../img/location-data/location17/spot5-2.jpg" },
+          { "url": "../img/location-data/location17/spot5-3.jpg" },
+          { "url": "../img/location-data/location17/spot5-4.jpg" },
+          { "url": "../img/location-data/location17/spot5-5.jpg" },
+          { "url": "../img/location-data/location17/spot5-6.jpg" }
+        ],
+        "title": "에이잔 전철 '히에이'",
+        "detail": "교토의 중심부에서 자연을 즐길 수 있는 야세 히에이잔으로 부담 없이 갈 수 있는 관광 열차 '히에이'는 2018년에 운행을 개시했으며 대담하고 새로운 디자인이 특징입니다. 차내에서는 사계절을 느낄 수 있는 경치를 즐길 수 있습니다."
+      },
+      {
+        "id": "06",
+        "img": [
+          { "url": "../img/location-data/location17/spot6-1.jpg" },
+          { "url": "../img/location-data/location17/spot6-2.jpg" },
+          { "url": "../img/location-data/location17/spot6-3.jpg" },
+          { "url": "../img/location-data/location17/spot6-4.jpg" },
+          { "url": "../img/location-data/location17/spot6-5.jpg" },
+          { "url": "../img/location-data/location17/spot6-6.jpg" }
+        ],
+        "title": "히에이잔 엔랴쿠지",
+        "detail": "788년에 덴교 대사 사이초가 창건한 천태종의 총본산으로 많은 명승이 배운 일본 불교의 발상지. 히에이잔 엔랴쿠지는 히에이잔의 삼나무 숲속에 펼쳐진 약 100개에 달하는 당탑의 총칭으로 세계 문화유산으로 등록되어 있습니다."
+      },
+      {
+        "id": "07",
+        "img": [
+          { "url": "../img/location-data/location17/spot7-1.jpg" },
+          { "url": "../img/location-data/location17/spot7-2.jpg" },
+          { "url": "../img/location-data/location17/spot7-3.jpg" },
+          { "url": "../img/location-data/location17/spot7-4.jpg" },
+          { "url": "../img/location-data/location17/spot7-5.jpg" },
+          { "url": "../img/location-data/location17/spot7-6.jpg" }
+        ],
+        "title": "구 지쿠린인",
+        "detail": "히에이잔 기슭에 있는 사카모토는 히에이잔 엔랴쿠지 앞마을로 번성했으며 엔랴쿠지의 승려가 은거한 곳인 마을 승방이 수많이 남아 있습니다. 마을 승방의 하나인 구 지쿠린인의 아름다운 정원에서는 주변을 흐르는 청류에서 끌어들인 강이나 폭포, 전통적인 조원 기술로 손질된 나무들이나 이끼를 볼 수 있습니다."
+      }
+    ]
+  },
+  "location18": {
+    "id": "유네스코 세계 유산 여행",
+    "category": "간사이",
+    "img": [
+      { "url": "./img/location-data/location18/location18_front.jpg" },
+      { "url": "./img/location-data/location18/location18_front_map.svg" }
+    ],
+    "post": "../img/location-data/location18/location18_head.jpg",
+    "place": "간사이의 놓칠 수 없는 명소",
+    "title": "교토, 나라: 유네스코 세계 유산 여행",
+    "topic": "일본의 옛 도읍: 교토와 나라 일본의 역사 깊은 장소를 방문하자",
+    "detail": "여러 세계 유산이 있는 교토와 나라의 거리에서 일본의 역사와 문화에 빠져 사시사철의 아름다움을 느끼면서 수많은 사원을 둘러봅니다. 서일본의 관문인 오사카의 거리를 걸으면서 도쿄와는 다른 독특한 분위기를 체험해 주십시오.",
+    "map": "../img/location-data/location18/location18_intro_positionmap.svg",
+    "spot": [
+      {
+        "id": "01",
+        "img": [
+          { "url": "../img/location-data/location18/spot1-1.jpg" },
+          { "url": "../img/location-data/location18/spot1-2.jpg" },
+          { "url": "../img/location-data/location18/spot1-3.jpg" },
+          { "url": "../img/location-data/location18/spot1-4.jpg" },
+          { "url": "../img/location-data/location18/spot1-5.jpg" },
+          { "url": "../img/location-data/location18/spot1-6.jpg" }
+        ],
+        "title": "나라",
+        "detail": "일본의 옛 도읍에서 1,400년의 역사를 느껴 주십시오. 도다이지, 가스가타이샤, 나라 공원 등 많은 세계 유산이 있습니다."
+      },
+      {
+        "id": "02",
+        "img": [
+          { "url": "../img/location-data/location18/spot2-1.jpg" },
+          { "url": "../img/location-data/location18/spot2-2.jpg" },
+          { "url": "../img/location-data/location18/spot2-3.jpg" },
+          { "url": "../img/location-data/location18/spot2-4.jpg" },
+          { "url": "../img/location-data/location18/spot2-5.jpg" },
+          { "url": "../img/location-data/location18/spot2-6.jpg" }
+        ],
+        "title": "긴카쿠지",
+        "detail": "커다란 연못 바로 옆에서 빛나는 화려한 금색 사원."
+      },
+      {
+        "id": "03",
+        "img": [
+          { "url": "../img/location-data/location18/spot3-1.jpg" },
+          { "url": "../img/location-data/location18/spot3-2.jpg" },
+          { "url": "../img/location-data/location18/spot3-3.jpg" },
+          { "url": "../img/location-data/location18/spot3-4.jpg" },
+          { "url": "../img/location-data/location18/spot3-5.jpg" },
+          { "url": "../img/location-data/location18/spot3-6.jpg" }
+        ],
+        "title": "기요미즈데라",
+        "detail": "봄의 벚꽃, 여름의 짙은 녹색 잎, 가을의 단풍, 겨울의 눈 등 아름다운 자연과 건축물이 자아내는 훌륭한 경치를 보기 위해 전 세계에서 관광객이 모여듭니다."
+      },
+      {
+        "id": "04",
+        "img": [
+          { "url": "../img/location-data/location18/spot4-1.jpg" },
+          { "url": "../img/location-data/location18/spot4-2.jpg" },
+          { "url": "../img/location-data/location18/spot4-3.jpg" },
+          { "url": "../img/location-data/location18/spot4-4.jpg" },
+          { "url": "../img/location-data/location18/spot4-5.jpg" },
+          { "url": "../img/location-data/location18/spot4-6.jpg" }
+        ],
+        "title": "후시미 이나리 신사",
+        "detail": "1,300년에 걸쳐 사람들에게 숭배되어 온 이나리 신사의 총본궁. 겹겹이 겹쳐진 주홍색 도리이가 신비로운 분위기를 자아냅니다."
+      },
+      {
+        "id": "05",
+        "img": [
+          { "url": "../img/location-data/location18/spot5-1.jpg" },
+          { "url": "../img/location-data/location18/spot5-2.jpg" },
+          { "url": "../img/location-data/location18/spot5-3.jpg" },
+          { "url": "../img/location-data/location18/spot5-4.jpg" },
+          { "url": "../img/location-data/location18/spot5-5.jpg" },
+          { "url": "../img/location-data/location18/spot5-6.jpg" }
+        ],
+        "title": "아라시야마",
+        "detail": "헤이안 시대에 귀족의 별장이 있었던 장소. 끝없이 대나무 숲의 환상적인 세계가 펼쳐집니다."
+      },
+      {
+        "id": "06",
+        "img": [
+          { "url": "../img/location-data/location18/spot6-1.jpg" },
+          { "url": "../img/location-data/location18/spot6-2.jpg" },
+          { "url": "../img/location-data/location18/spot6-3.jpg" },
+          { "url": "../img/location-data/location18/spot6-4.jpg" },
+          { "url": "../img/location-data/location18/spot6-5.jpg" },
+          { "url": "../img/location-data/location18/spot6-6.jpg" }
+        ],
+        "title": "도톤보리, 신사이바시",
+        "detail": "오사카에서 가장 인기 있는 관광 명소. 오사카 현지의 매력으로 가득한 거리에서 쇼핑이나 식사를 즐깁시다."
+      }
+    ]
+  },
+  "location19": {
+    "id": "히로시마",
+    "category": "주고쿠",
+    "img": [
+      { "url": "./img/location-data/location19/location19_front.jpg" },
+      { "url": "./img/location-data/location19/location19_front_map.svg" }
+    ],
+    "post": "../img/location-data/location19/location19_head.jpg",
+    "place": "히로시마에서 방문해야 할 명소",
+    "title": "히로시마: 원폭 돔과 미야지마, 2개의 세계 유산과 마음이 통하는 여행",
+    "topic": "세계의 영구적인 평화를 바라는 히로시마의 거리와 숨이 막힐 정도로 아름다운 미야지마의 풍경",
+    "detail": "2개의 세계 유산을 중심으로 히로시마의 역사와 문화를 느끼는 여행. 중심지에는 평화 기념 공원이 자리 잡고 있어 평화를 배울 수 있습니다. 또한 미야 섬으로 발걸음을 옮기면 조수의 간만이 일어나는 곳에 세워진 신전인 아름다운 이쓰쿠시마 신사가 있어 신비한 세계를 느낄 수 있습니다. 히로시마에서만 즐길 수 있는 현지 명물의 맛도 여행의 묘미 중 하나입니다.",
+    "map": "../img/location-data/location19/location19_intro_positionmap.svg",
+    "spot": [
+      {
+        "id": "01",
+        "img": [
+          { "url": "../img/location-data/location19/spot1-1.jpg" },
+          { "url": "../img/location-data/location19/spot1-2.jpg" },
+          { "url": "../img/location-data/location19/spot1-3.jpg" },
+          { "url": "../img/location-data/location19/spot1-4.jpg" },
+          { "url": "../img/location-data/location19/spot1-5.jpg" },
+          { "url": "../img/location-data/location19/spot1-6.jpg" }
+        ],
+        "title": "원폭 돔",
+        "detail": "전쟁 당시의 건물이 남아 있어 그 비참함을 말해주고 있습니다. 옆의 평화 기념 자료관에서는 피폭자의 유품, 사진 등의 피폭 자료를 전시하고 피폭 실상과 원폭 투하 경위, 히로시마의 발자취 등에 대해 소개하고 있습니다."
+      },
+      {
+        "id": "02",
+        "img": [
+          { "url": "../img/location-data/location19/spot2-1.jpg" },
+          { "url": "../img/location-data/location19/spot2-2.jpg" },
+          { "url": "../img/location-data/location19/spot2-3.jpg" },
+          { "url": "../img/location-data/location19/spot2-4.jpg" },
+          { "url": "../img/location-data/location19/spot2-5.jpg" },
+          { "url": "../img/location-data/location19/spot2-6.jpg" }
+        ],
+        "title": "히로시마성",
+        "detail": "1589년에 모리 데루모토가 지은 성입니다. 시내의 중심부에 있어 관광 도중에 가볍게 들를 수 있고, 외부에서 경관을 바라봐도 해자의 아름다움을 느낄 수 있습니다. 또한 천수각 안의 박물관에서는 당시 무사의 문화를 배울 수 있습니다."
+      },
+      {
+        "id": "03",
+        "img": [
+          { "url": "../img/location-data/location19/spot3-1.jpg" },
+          { "url": "../img/location-data/location19/spot3-2.jpg" },
+          { "url": "../img/location-data/location19/spot3-3.jpg" },
+          { "url": "../img/location-data/location19/spot3-4.jpg" },
+          { "url": "../img/location-data/location19/spot3-5.jpg" },
+          { "url": "../img/location-data/location19/spot3-6.jpg" }
+        ],
+        "title": "슛케이엔",
+        "detail": "일본의 역사 공원 100선에도 선정된 아름다운 다이묘 정원입니다. 시내 중심부에 위치했습니다만, 도회지의 소음을 잊을 수 있으며, 봄에는 벚꽃, 초여름의 수국, 가을에는 단풍 등 계절마다 꽃들을 즐길 수 있습니다."
+      },
+      {
+        "id": "04",
+        "img": [
+          { "url": "../img/location-data/location19/spot4-1.jpg" },
+          { "url": "../img/location-data/location19/spot4-2.jpg" },
+          { "url": "../img/location-data/location19/spot4-3.jpg" },
+          { "url": "../img/location-data/location19/spot4-4.jpg" },
+          { "url": "../img/location-data/location19/spot4-5.jpg" },
+          { "url": "../img/location-data/location19/spot4-6.jpg" }
+        ],
+        "title": "오코노미무라",
+        "detail": "오코노미야키에 소바가 든 히로시마의 명물 ‘히로시마풍 오코노미야키’를 제공하는 가게가 20곳 넘게 모여 있습니다. 점원이 정성을 담아 눈앞의 철판에서 구워줍니다. 현지 사람들로 북적여 현지의 분위기를 즐길 수 있습니다."
+      },
+      {
+        "id": "05",
+        "img": [
+          { "url": "../img/location-data/location19/spot5-1.jpg" },
+          { "url": "../img/location-data/location19/spot5-2.jpg" },
+          { "url": "../img/location-data/location19/spot5-3.jpg" },
+          { "url": "../img/location-data/location19/spot5-4.jpg" },
+          { "url": "../img/location-data/location19/spot5-5.jpg" },
+          { "url": "../img/location-data/location19/spot5-6.jpg" }
+        ],
+        "title": "산단쿄 협곡",
+        "detail": "전체 길이 약 16km의 대협곡이며 그 맑은 물과 녹음의 협곡미는 해외의 여행 전문지 『블루 가이드』에서 다뤄졌습니다. 부담 없이 즐길 수 있는 왕복 약 20분 코스부터 주요 경승지를 섭렵하는 약 4시간 코스까지 다채로운 산책 코스가 있습니다."
+      },
+      {
+        "id": "06",
+        "img": [
+          { "url": "../img/location-data/location19/spot6-1.jpg" },
+          { "url": "../img/location-data/location19/spot6-2.jpg" },
+          { "url": "../img/location-data/location19/spot6-3.jpg" },
+          { "url": "../img/location-data/location19/spot6-4.jpg" },
+          { "url": "../img/location-data/location19/spot6-5.jpg" },
+          { "url": "../img/location-data/location19/spot6-6.jpg" }
+        ],
+        "title": "미야지마",
+        "detail": "미야지마에 있는 이쓰쿠시마 신사는 바다를 부지로 삼은 독창적인 구성과 신덴즈쿠리 양식을 도입한 신전이 아름다우며, 그 신성한 분위기에 압도됩니다. 간조 때는 도리이 근처까지 걸어서 건널 수 있습니다. 섬 내에서는 모미지 만주나 아나고메시, 굴 등의 음식도 즐길 수 있습니다."
+      },
+      {
+        "id": "07",
+        "img": [
+          { "url": "../img/location-data/location19/spot7-1.jpg" },
+          { "url": "../img/location-data/location19/spot7-2.jpg" },
+          { "url": "../img/location-data/location19/spot7-3.jpg" },
+          { "url": "../img/location-data/location19/spot7-4.jpg" },
+          { "url": "../img/location-data/location19/spot7-5.jpg" },
+          { "url": "../img/location-data/location19/spot7-6.jpg" }
+        ],
+        "title": "미야하마 온천",
+        "detail": "미야지마에서 가장 가까운 온천 마을입니다. 바다와 온천이 이어진 것처럼 보이는 노천탕도 있어 개방감을 맛볼 수 있을 뿐만 아니라 입욕 후에는 온천 료칸에서 굴 등의 현지 식재료를 즐길 수 있습니다. 크루징이나 바다 카약 등 해상 액티비티도 풍부합니다."
+      }
+    ]
+  },
+  "location20": {
+    "id": "시코쿠",
+    "category": "시코쿠",
+    "img": [
+      { "url": "./img/location-data/location20/location20_front.jpg" },
+      { "url": "./img/location-data/location20/location20_front_map.svg" }
+    ],
+    "post": "../img/location-data/location20/location20_head.jpg",
+    "place": "신비의 섬 시코쿠",
+    "title": "시코쿠: 세계가 주목하는 섬에서 비경 순회",
+    "topic": "시코쿠는 방문해야 할 여행지로 세계가 주목. 자연의 신비와 역사적 경관의 정취를 느끼자",
+    "detail": "세계의 여행 잡지에서 주목받는 시코쿠. 풍요로운 자연을 느낄 수 있는 곳, 풍광이 아름다운 역사적 장소, 그리고 전통적인 축제 등 매력적인 명소가 많습니다. 아직 보지 못한 절경, 알려지지 않은 역사 및 문화를 체험할 수 있는 매력 넘치는 시코쿠를 소개합니다.",
+    "map": "../img/location-data/location20/location20_intro_positionmap.svg",
+    "spot": [
+      {
+        "id": "01",
+        "img": [
+          { "url": "../img/location-data/location20/spot1-1.jpg" },
+          { "url": "../img/location-data/location20/spot1-2.jpg" },
+          { "url": "../img/location-data/location20/spot1-3.jpg" },
+          { "url": "../img/location-data/location20/spot1-4.jpg" },
+          { "url": "../img/location-data/location20/spot1-5.jpg" },
+          { "url": "../img/location-data/location20/spot1-6.jpg" }
+        ],
+        "title": "마쓰야마성",
+        "detail": "마쓰야마성은 에도 시대 (1603년 ~ 1868년) 의 천수각이 남아 있는 현존하는 12개 천수각 중 하나로 21채의 중요 문화재를 가진 평산성입니다. 해발 132ｍ의 정상에 선 천수각에서는 시내를 한눈에 바라볼 수 있습니다. 일몰 후의 경관 조명도 추천합니다."
+      },
+      {
+        "id": "02",
+        "img": [
+          { "url": "../img/location-data/location20/spot2-1.jpg" },
+          { "url": "../img/location-data/location20/spot2-2.jpg" },
+          { "url": "../img/location-data/location20/spot2-3.jpg" },
+          { "url": "../img/location-data/location20/spot2-4.jpg" },
+          { "url": "../img/location-data/location20/spot2-5.jpg" },
+          { "url": "../img/location-data/location20/spot2-6.jpg" }
+        ],
+        "title": "도고 온천",
+        "detail": "도고 온천은 약 3,000년의 역사가 있으며 일본에서 가장 오래된 것으로 전해지는 온천입니다. 주변에는 활기 넘치는 상점가 및 음식점, 품격이 감도는 온천 료칸 등이 모여 있으며, 도고 온천 본관을 중심으로 하나의 온천 거리를 이루고 있습니다."
+      },
+      {
+        "id": "03",
+        "img": [
+          { "url": "../img/location-data/location20/spot3-1.jpg" },
+          { "url": "../img/location-data/location20/spot3-2.jpg" },
+          { "url": "../img/location-data/location20/spot3-3.jpg" },
+          { "url": "../img/location-data/location20/spot3-4.jpg" },
+          { "url": "../img/location-data/location20/spot3-5.jpg" },
+          { "url": "../img/location-data/location20/spot3-6.jpg" }
+        ],
+        "title": "이야 계곡 및 이야의 가즈라바시",
+        "detail": "해발 1,955m의 쓰루기산에서 흐르는 이야 강 유역에 펼쳐진 심산유곡. 때 묻지 않은 아름다운 경관이 펼쳐지는 계곡은 전 세계의 여행 잡지에서 주목받고 있습니다. 야생 다래나무로 엮은 구름다리 ‘이야의 가즈라바시’는 유료로 건널 수 있으며 걸을 때마다 흔들려 스릴 만점입니다."
+      },
+      {
+        "id": "04",
+        "img": [
+          { "url": "../img/location-data/location20/spot4-1.jpg" },
+          { "url": "../img/location-data/location20/spot4-2.jpg" },
+          { "url": "../img/location-data/location20/spot4-3.jpg" },
+          { "url": "../img/location-data/location20/spot4-4.jpg" },
+          { "url": "../img/location-data/location20/spot4-5.jpg" },
+          { "url": "../img/location-data/location20/spot4-6.jpg" }
+        ],
+        "title": "아와오도리 회관",
+        "detail": "400년 이상의 역사를 가졌다는 도쿠시마의 전통 예능인 아와오도리. 관내에서 낮에는 회관 전속 공연단, 밤에는 유명 공연단이 약동적인 아와오도리를 눈앞에서 선보입니다. 공연 중에는 ‘체험 코너’가 있어 즉석에서 참가하여 함께 춤출 수 있습니다."
+      },
+      {
+        "id": "05",
+        "img": [
+          { "url": "../img/location-data/location20/spot5-1.jpg" },
+          { "url": "../img/location-data/location20/spot5-2.jpg" },
+          { "url": "../img/location-data/location20/spot5-3.jpg" },
+          { "url": "../img/location-data/location20/spot5-4.jpg" },
+          { "url": "../img/location-data/location20/spot5-5.jpg" },
+          { "url": "../img/location-data/location20/spot5-6.jpg" }
+        ],
+        "title": "나루토 해협",
+        "detail": "세토나이카이와 기이 수도의 간만의 차로 격심한 조류가 발생함으로써 생기는 나루토의 소용돌이. 페리로 다가가 관람할 수 있으며, 최대 시속 약 20km가 넘는 조류는 자연의 역동성을 느낄 수 있습니다."
+      },
+      {
+        "id": "06",
+        "img": [
+          { "url": "../img/location-data/location20/spot6-1.jpg" },
+          { "url": "../img/location-data/location20/spot6-2.jpg" },
+          { "url": "../img/location-data/location20/spot6-3.jpg" },
+          { "url": "../img/location-data/location20/spot6-4.jpg" },
+          { "url": "../img/location-data/location20/spot6-5.jpg" },
+          { "url": "../img/location-data/location20/spot6-6.jpg" }
+        ],
+        "title": "리쓰린 공원",
+        "detail": "미슐랭 최고 평가를 획득한 문화재 정원. 부지 안을 산책하면 단풍과 벚꽃 외에도 매화, 꽃창포, 연꽃 등 다양한 사계절을 천 그루의 전정 소나무와 함께 느낄 수 있습니다. 이른 아침에 방문하면 그림처럼 아름다운 풍경을 독점할 수 있을지도 모릅니다."
+      },
+      {
+        "id": "07",
+        "img": [
+          { "url": "../img/location-data/location20/spot7-1.jpg" },
+          { "url": "../img/location-data/location20/spot7-2.jpg" },
+          { "url": "../img/location-data/location20/spot7-3.jpg" },
+          { "url": "../img/location-data/location20/spot7-4.jpg" },
+          { "url": "../img/location-data/location20/spot7-5.jpg" },
+          { "url": "../img/location-data/location20/spot7-6.jpg" }
+        ],
+        "title": "고토히라구 신사",
+        "detail": "본궁까지는 785단의 돌계단, 또한 오쿠샤까지는 1,368단으로 길게 뻗은 돌계단 참배길이 유명한 신사. 주변에는 문화재가 점재해 있거나 사원 앞마을에는 가가와의 명물인 우동집과 상점이 늘어서 마을 전체가 정취로 넘칩니다."
+      }
+    ]
+  },
+  "location21": {
+    "id": "세계문화유산 구마모토",
+    "category": "규슈",
+    "img": [
+      { "url": "./img/location-data/location21/location21_front.jpg" },
+      { "url": "./img/location-data/location21/location21_front_map.svg" }
+    ],
+    "post": "../img/location-data/location21/location21_head.jpg",
+    "place": "기도의 섬, 아마쿠사",
+    "title": "세계문화유산 구마모토 아마쿠사:숨은 크리스천, 문화, 자연을 체험하는 여행",
+    "topic": "크고 작은 120개의 섬들로 이루어진 아마쿠사. 역사의 무대였던 '기도의 섬'을 느껴 보자.",
+    "detail": "기독교가 탄압받던 에도 시대 (1603 ~ 1868) 부터 200년간, '숨은 크리스천'으로서 신앙을 이어 온 사람들이 있었습니다. 그것이 아마쿠사가 '기도의 섬'이라고 불리는 이유입니다. 자연과 문화가 키워낸 섬에서 역사를 느껴 보세요.",
+    "map": "../img/location-data/location21/location21_intro_positionmap.svg",
+    "spot": [
+      {
+        "id": "01",
+        "img": [
+          { "url": "../img/location-data/location21/spot1-1.jpg" },
+          { "url": "../img/location-data/location21/spot1-2.jpg" },
+          { "url": "../img/location-data/location21/spot1-3.jpg" },
+          { "url": "../img/location-data/location21/spot1-4.jpg" },
+          { "url": "../img/location-data/location21/spot1-5.jpg" },
+          { "url": "../img/location-data/location21/spot1-6.jpg" }
+        ],
+        "title": "아마쿠사 기리시탄관",
+        "detail": "아마쿠사와 기독교의 역사를 이해하려면 이곳으로. 크리스천 농민이 일으킨 봉기인 '시마바라, 아마쿠사 봉기'에서 사용된 무기와 세계 3대 성기 중 하나라고 불리는 진중기 등 당시의 역사를 말해 주는 자료가 전시되어 있습니다."
+      },
+      {
+        "id": "02",
+        "img": [
+          { "url": "../img/location-data/location21/spot2-1.jpg" },
+          { "url": "../img/location-data/location21/spot2-2.jpg" },
+          { "url": "../img/location-data/location21/spot2-3.jpg" },
+          { "url": "../img/location-data/location21/spot2-4.jpg" },
+          { "url": "../img/location-data/location21/spot2-5.jpg" },
+          { "url": "../img/location-data/location21/spot2-6.jpg" }
+        ],
+        "title": "아마쿠사시 돌고래 센터",
+        "detail": "돌고래에 대해 배울 수 있는 관광 안내소입니다. 아마쿠사에는 야생 돌고래가 200마리 이상 서식하고 있어 일 년 내내 돌고래 관찰을 즐길 수 있습니다."
+      },
+      {
+        "id": "03",
+        "img": [
+          { "url": "../img/location-data/location21/spot3-1.jpg" },
+          { "url": "../img/location-data/location21/spot3-2.jpg" },
+          { "url": "../img/location-data/location21/spot3-3.jpg" },
+          { "url": "../img/location-data/location21/spot3-4.jpg" },
+          { "url": "../img/location-data/location21/spot3-5.jpg" },
+          { "url": "../img/location-data/location21/spot3-6.jpg" }
+        ],
+        "title": "니시비라 동백 공원",
+        "detail": "약 2만 그루의 동백이 무리 지어 있는 공원. 매년 2월 ~ 3월에는 산비탈에 동백이 만개하여 절정을 맞이합니다. 일본의 석양 100선 중 한 곳이기도 하며, 아마쿠사 여울이 보이는 전망대에서의 석양은 절경입니다. 높이 20m 가량의 거대한 용나무도 놓치지 마세요."
+      },
+      {
+        "id": "04",
+        "img": [
+          { "url": "../img/location-data/location21/spot4-1.jpg" },
+          { "url": "../img/location-data/location21/spot4-2.jpg" },
+          { "url": "../img/location-data/location21/spot4-3.jpg" },
+          { "url": "../img/location-data/location21/spot4-4.jpg" },
+          { "url": "../img/location-data/location21/spot4-5.jpg" },
+          { "url": "../img/location-data/location21/spot4-6.jpg" }
+        ],
+        "title": "호텔 알레그리아 가든스 아마쿠사",
+        "detail": "아리아케 바다가 보이는 광대한 온천 스파 리조트 호텔. 아마쿠사의 중심에 위치한 언덕 위에 위치하여 호텔 어디서나 아마쿠사의 아름다운 바다를 볼 수 있습니다. 오션 뷰 객실, 천연 온천에서 몸과 마음을 모두 힐링할 수 있습니다."
+      },
+      {
+        "id": "05",
+        "img": [
+          { "url": "../img/location-data/location21/spot5-1.jpg" },
+          { "url": "../img/location-data/location21/spot5-2.jpg" },
+          { "url": "../img/location-data/location21/spot5-3.jpg" },
+          { "url": "../img/location-data/location21/spot5-4.jpg" },
+          { "url": "../img/location-data/location21/spot5-5.jpg" },
+          { "url": "../img/location-data/location21/spot5-6.jpg" }
+        ],
+        "title": "하이야 발상지",
+        "detail": "아마쿠사의 항구 도시, 우시부카마치에서 생겨난 것으로 전해지는 민요 '우시부카 하이야부시'. 항구에서 항구로, 전국 각지에서 다양하게 편곡된 노래가 전해져 왔습니다. 매년 4월에 개최되는 우시부카 하이야 축제에서는 생동감 넘치는 춤을 즐길 수 있습니다."
+      },
+      {
+        "id": "06",
+        "img": [
+          { "url": "../img/location-data/location21/spot6-1.jpg" },
+          { "url": "../img/location-data/location21/spot6-2.jpg" },
+          { "url": "../img/location-data/location21/spot6-3.jpg" },
+          { "url": "../img/location-data/location21/spot6-4.jpg" },
+          { "url": "../img/location-data/location21/spot6-5.jpg" },
+          { "url": "../img/location-data/location21/spot6-6.jpg" }
+        ],
+        "title": "사키쓰 취락",
+        "detail": "크리스천 탄압기에 불교, 신도 등과 공존하며 기독교 신앙을 이어 온 어촌 취락입니다. 조개껍데기 안쪽의 무늬를 성모 마리아에 비유하여 숭상하는 등 어촌 특유의 신앙 형태를 키워 왔습니다."
+      },
+      {
+        "id": "07",
+        "img": [
+          { "url": "../img/location-data/location21/spot7-1.jpg" },
+          { "url": "../img/location-data/location21/spot7-2.jpg" },
+          { "url": "../img/location-data/location21/spot7-3.jpg" },
+          { "url": "../img/location-data/location21/spot7-4.jpg" },
+          { "url": "../img/location-data/location21/spot7-5.jpg" },
+          { "url": "../img/location-data/location21/spot7-6.jpg" }
+        ],
+        "title": "아마쿠사 전통 공예 체험",
+        "detail": "아마쿠사 흙 인형, 아마쿠사 공놀이, 아마쿠사 바라문 연, 오시에 (천과 솜을 이용해 입체적으로 만든 그림 공예), 아마쿠사 도자기 등이 유명합니다. 크리스천 탄압기에는 아마쿠사 흙 인형을 예수를 안은 마리아상 대신 은밀하게 예배에 이용했습니다."
+      }
+    ]
+  },
+  "location22": {
+    "id": "사가의 역사와 문화를 접하는 여행",
+    "category": "규슈",
+    "img": [
+      { "url": "./img/location-data/location22/location22_front.jpg" },
+      { "url": "./img/location-data/location22/location22_front_map.svg" }
+    ],
+    "post": "../img/location-data/location22/location22_head.jpg",
+    "place": "사가의 문화 찾기",
+    "title": "사가의 역사와 문화를접하는 여행",
+    "topic": "풍부한 문화가 숨쉬는 자연으로 둘러싸인 사가에서 고풍스러운 일본의 문화를 체험하자",
+    "detail": "도예, 신사, 양조장, 온천, 차, 성 등 사가에는 매력적인 일본의 문화를 접할 수 있는 명소가 많이 있습니다. 도예 체험이나 신사 참배, 가라쓰성에서 역사를 느끼고 술과 차의 고장에서 휴식을 취하고 온천 료칸에서 최고의 시간을 만끽해 보세요.",
+    "map": "../img/location-data/location22/location22_intro_positionmap.svg",
+    "spot": [
+      {
+        "id": "01",
+        "img": [
+          { "url": "../img/location-data/location22/spot1-1.jpg" },
+          { "url": "../img/location-data/location22/spot1-2.jpg" },
+          { "url": "../img/location-data/location22/spot1-3.jpg" },
+          { "url": "../img/location-data/location22/spot1-4.jpg" },
+          { "url": "../img/location-data/location22/spot1-5.jpg" },
+          { "url": "../img/location-data/location22/spot1-6.jpg" }
+        ],
+        "title": "고라쿠 가마",
+        "detail": "일본 자기의 발상지인 아리타초에 1865년에 창업한 전통적인 아리타 도자기의 도자기 공방. 평소 사용하는 식기부터 화려한 식기까지 마음에 드는 식기를 찾아 보세요. 도예 체험도 할 수 있습니다."
+      },
+      {
+        "id": "02",
+        "img": [
+          { "url": "../img/location-data/location22/spot2-1.jpg" },
+          { "url": "../img/location-data/location22/spot2-2.jpg" },
+          { "url": "../img/location-data/location22/spot2-3.jpg" },
+          { "url": "../img/location-data/location22/spot2-4.jpg" },
+          { "url": "../img/location-data/location22/spot2-5.jpg" },
+          { "url": "../img/location-data/location22/spot2-6.jpg" }
+        ],
+        "title": "유토쿠 이나리 신사",
+        "detail": "일본 3대 이나리의 하나인 신사에서 생활 전반의 신을 모시고 있습니다. 건물의 선명한 주홍색이 인상적입니다. 봄에는 벚꽃이 경내를 물들이고 가을에는 단풍이 아름다워 사계절이 풍부한 신사로도 유명합니다."
+      },
+      {
+        "id": "03",
+        "img": [
+          { "url": "../img/location-data/location22/spot3-1.jpg" },
+          { "url": "../img/location-data/location22/spot3-2.jpg" },
+          { "url": "../img/location-data/location22/spot3-3.jpg" },
+          { "url": "../img/location-data/location22/spot3-4.jpg" },
+          { "url": "../img/location-data/location22/spot3-5.jpg" },
+          { "url": "../img/location-data/location22/spot3-6.jpg" }
+        ],
+        "title": "가시마의 양조장 거리",
+        "detail": "풍부한 청정수와 양질의 쌀에 둘러싸여 있어 에도 시대부터 양조장이 번성했던 가시마시. 흰 벽 건물이 아름다운 양조장 거리에서는 술을 무료 시음하거나 구매할 수 있고, 양조장 디저트, 양조장 견학 등이 인기가 있습니다."
+      },
+      {
+        "id": "04",
+        "img": [
+          { "url": "../img/location-data/location22/spot4-1.jpg" },
+          { "url": "../img/location-data/location22/spot4-2.jpg" },
+          { "url": "../img/location-data/location22/spot4-3.jpg" },
+          { "url": "../img/location-data/location22/spot4-4.jpg" },
+          { "url": "../img/location-data/location22/spot4-5.jpg" },
+          { "url": "../img/location-data/location22/spot4-6.jpg" }
+        ],
+        "title": "와타야 별장",
+        "detail": "우레시노 온천의 강변에 자리한 2만 평의 온천 료칸. 미술관을 떠올리게 하는 공간이 펼쳐져 있습니다. 사가 식재료를 사용한 수많은 요리, 일본 전통의 정취를 느낄 수 있는 노천탕이 포함된 객실에서 일상을 벗어난 듯한 기분을 만끽할 수 있습니다."
+      },
+      {
+        "id": "05",
+        "img": [
+          { "url": "../img/location-data/location22/spot5-1.jpg" },
+          { "url": "../img/location-data/location22/spot5-2.jpg" },
+          { "url": "../img/location-data/location22/spot5-3.jpg" },
+          { "url": "../img/location-data/location22/spot5-4.jpg" },
+          { "url": "../img/location-data/location22/spot5-5.jpg" },
+          { "url": "../img/location-data/location22/spot5-6.jpg" }
+        ],
+        "title": "우레시노 티 투어리즘",
+        "detail": "수백 년의 역사가 있는 차의 고장, 우레시노. 우레시노 티 투어리즘에서는 독특한 차 공간을 체험할 수 있습니다. 차와 함께 자전거로 관광지를 돌아보는 체험인 '차린 (茶輪)' 체험과, 온천과 관광지를 산책하며 돌아보는 ' 호차 (歩茶)'체험을 추천합니다."
+      },
+      {
+        "id": "06",
+        "img": [
+          { "url": "../img/location-data/location22/spot6-1.jpg" },
+          { "url": "../img/location-data/location22/spot6-2.jpg" },
+          { "url": "../img/location-data/location22/spot6-3.jpg" },
+          { "url": "../img/location-data/location22/spot6-4.jpg" },
+          { "url": "../img/location-data/location22/spot6-5.jpg" },
+          { "url": "../img/location-data/location22/spot6-6.jpg" }
+        ],
+        "title": "가라쓰성",
+        "detail": "천수각에서 바라보는 겐카이나다, 마쓰라가타 등의 경치가 아름답습니다. 야간 조명으로 유명하며, 봄에는 벚꽃과 등나무 꽃으로 물드는 꽃의 명소로도 유명합니다."
+      },
+      {
+        "id": "07",
+        "img": [
+          { "url": "../img/location-data/location22/spot7-1.jpg" },
+          { "url": "../img/location-data/location22/spot7-2.jpg" },
+          { "url": "../img/location-data/location22/spot7-3.jpg" },
+          { "url": "../img/location-data/location22/spot7-4.jpg" },
+          { "url": "../img/location-data/location22/spot7-5.jpg" },
+          { "url": "../img/location-data/location22/spot7-6.jpg" }
+        ],
+        "title": "사가 벌룬 뮤지엄",
+        "detail": "아시아 최대급의 벌룬 대회인 '사가 인터내셔널 벌룬 페스타'를 개최하고 있는 사가. 언제든지 벌룬을 체험할 수 있는 뮤지엄에서 시내에서도 열기구를 체험해 보세요."
+      }
+    ]
+  },
+  "location23": {
+    "id": "나가사키, 고토 후쿠에",
+    "category": "규슈",
+    "img": [
+      { "url": "./img/location-data/location23/location23_front.jpg" },
+      { "url": "./img/location-data/location23/location23_front_map.svg" }
+    ],
+    "post": "../img/location-data/location23/location23_head.jpg",
+    "place": "나가사키의 놓칠 수 없는 명소",
+    "title": "나가사키, 고토 후쿠에:아름다운 바다와 역사 유산을 둘러보는 여행",
+    "topic": "고대부터 외국의 관문으로 번성했던 나가사키와 여러 아름다운 섬으로 이루어진 고토 열도의 후쿠에 섬에서 자연의 아름다움과 깊은 역사에 대해 알아보십시오.",
+    "detail": "국제 무역의 중심지인 나가사키는 고대부터 전 세계 여러 나라와 무역을 이어온 도시로, 이국적인 정취를 물씬 풍기는 분위기가 매력적인 곳입니다. 멋진 야경의 항구 도시 나가사키와 아름다운 바다 및 밤하늘에 펼쳐진 별을 감상할 수 있는 고토 지역은 유네스코 세계 문화유산으로 지정된 자산으로 가득합니다.",
+    "map": "../img/location-data/location23/location23_intro_positionmap.svg",
+    "spot": [
+      {
+        "id": "01",
+        "img": [
+          { "url": "../img/location-data/location23/spot1-1.jpg" },
+          { "url": "../img/location-data/location23/spot1-2.jpg" },
+          { "url": "../img/location-data/location23/spot1-3.jpg" },
+          { "url": "../img/location-data/location23/spot1-4.jpg" },
+          { "url": "../img/location-data/location23/spot1-5.jpg" },
+          { "url": "../img/location-data/location23/spot1-6.jpg" }
+        ],
+        "title": "타카하마 해수욕장",
+        "detail": "천연 해수욕장으로는 일본 제일의 아름다움을 자랑하는 백사장 해변. 해변 앞에서의 광경은 물론이고, 교란칸논 전망소에서 바라보는 코발트 블루의 크고 넓은 바다와 에메랄드 그린의 얕은 여울의 아름다운 그라데이션도 놓치지 마십시오."
+      },
+      {
+        "id": "02",
+        "img": [
+          { "url": "../img/location-data/location23/spot2-1.jpg" },
+          { "url": "../img/location-data/location23/spot2-2.jpg" },
+          { "url": "../img/location-data/location23/spot2-3.jpg" },
+          { "url": "../img/location-data/location23/spot2-4.jpg" },
+          { "url": "../img/location-data/location23/spot2-5.jpg" },
+          { "url": "../img/location-data/location23/spot2-6.jpg" }
+        ],
+        "title": "이모치우라 교회 루르드",
+        "detail": "붉은 벽돌의 이모치우라 교회에는 일본 최초의 루르드가 있습니다. 병이 치유된다는 성수로 널리 알려졌으며 일본 전역의 순례자들이 방문하는 곳입니다."
+      },
+      {
+        "id": "03",
+        "img": [
+          { "url": "../img/location-data/location23/spot3-1.jpg" },
+          { "url": "../img/location-data/location23/spot3-2.jpg" },
+          { "url": "../img/location-data/location23/spot3-3.jpg" },
+          { "url": "../img/location-data/location23/spot3-4.jpg" },
+          { "url": "../img/location-data/location23/spot3-5.jpg" },
+          { "url": "../img/location-data/location23/spot3-6.jpg" }
+        ],
+        "title": "고토 츠바키 호텔",
+        "detail": "고토 츠바키 호텔의 아름답고 현대적인 인테리어는 고토 열도 주변의 푸른 바다를 토대로 합니다. 바다 전망 객실에서 고토나타만의 전경을 볼 수 있으며, 풍부한 현지 재료를 사용하는 이 호텔의 이탈리아 요리도 훌륭한 평판을 받고 있습니다."
+      },
+      {
+        "id": "04",
+        "img": [
+          { "url": "../img/location-data/location23/spot4-1.jpg" },
+          { "url": "../img/location-data/location23/spot4-2.jpg" },
+          { "url": "../img/location-data/location23/spot4-3.jpg" },
+          { "url": "../img/location-data/location23/spot4-4.jpg" },
+          { "url": "../img/location-data/location23/spot4-5.jpg" },
+          { "url": "../img/location-data/location23/spot4-6.jpg" }
+        ],
+        "title": "츠바키노",
+        "detail": "고토 열도에서 자란 뛰어난 품질의 동백나무에서 추출한 순수한 츠바키 (동백) 오일로 이루어진 잡화, 스킨케어 품목 및 식품은 최고의 선물이 됩니다. 근처의 카페에서 츠바키 오일을 직접 채취하는 경험도 할 수 있습니다."
+      },
+      {
+        "id": "05",
+        "img": [
+          { "url": "../img/location-data/location23/spot5-1.jpg" },
+          { "url": "../img/location-data/location23/spot5-2.jpg" },
+          { "url": "../img/location-data/location23/spot5-3.jpg" },
+          { "url": "../img/location-data/location23/spot5-4.jpg" },
+          { "url": "../img/location-data/location23/spot5-5.jpg" },
+          { "url": "../img/location-data/location23/spot5-6.jpg" }
+        ],
+        "title": "나가사키 평화 공원",
+        "detail": "원자폭탄 낙하 중심지 북쪽의 낮은 언덕에 위치한 나가사키 평화 공원은 세계 평화에 대한 희망을 구현하고 전쟁의 비극을 반복하지 않겠다는 맹세에 따라 조성된 곳입니다. 황금색 종이학이 반짝거리는 오리즈루 타워에는 사람들이 영원한 세계 평화를 기원하며 접어 넣은 수많은 종이학을 볼 수 있습니다."
+      },
+      {
+        "id": "06",
+        "img": [
+          { "url": "../img/location-data/location23/spot6-1.jpg" },
+          { "url": "../img/location-data/location23/spot6-2.jpg" },
+          { "url": "../img/location-data/location23/spot6-3.jpg" },
+          { "url": "../img/location-data/location23/spot6-4.jpg" },
+          { "url": "../img/location-data/location23/spot6-5.jpg" },
+          { "url": "../img/location-data/location23/spot6-6.jpg" }
+        ],
+        "title": "오우라 성당",
+        "detail": "세계 문화유산 지역에 위치한 오우라 성당은 중세 시대 유럽 건축의 전형적인 고딕 양식이 돋보이는 아름다운 교회로, 외국인 거주자를 위해 건립되었습니다. 일본에 현존하는 가장 오래된 성당이기도 합니다."
+      },
+      {
+        "id": "07",
+        "img": [
+          { "url": "../img/location-data/location23/spot7-1.jpg" },
+          { "url": "../img/location-data/location23/spot7-2.jpg" },
+          { "url": "../img/location-data/location23/spot7-3.jpg" },
+          { "url": "../img/location-data/location23/spot7-4.jpg" },
+          { "url": "../img/location-data/location23/spot7-5.jpg" },
+          { "url": "../img/location-data/location23/spot7-6.jpg" }
+        ],
+        "title": "하시마섬",
+        "detail": "한때 많은 사람이 거주하는 해저 탄광이었던 이 작은 섬은 높은 콘크리트 건물들로 이루어진 모습이 군함과 비슷하기 때문에 군칸지마 (군함도) 라고 불리게 되었습니다. 지금은 무인도이므로 방문객들은 섬을 탐사하는 투어를 통해 섬에 방문할 수 있습니다."
+      }
+    ]
+  },
+  "location24": {
+    "id": "쓰시마, 이키",
+    "category": "규슈",
+    "img": [
+      { "url": "./img/location-data/location24/location24_front.jpg" },
+      { "url": "./img/location-data/location24/location24_front_map.svg" }
+    ],
+    "post": "../img/location-data/location24/location24_head.jpg",
+    "place": "나가사키의 낙도",
+    "title": "쓰시마, 이키: 역사를 느끼는 신비의 섬",
+    "topic": "순수한 자연의 모습을 그대로 간직하고 있는 나가사키의 낙도에서 자연의 아름다움과 일본의 역사를 만나보세요",
+    "detail": "자연의 풍요로움을 그대로 간직한 나가사키 북서쪽 섬인 이키 섬에는 오랜 역사와 신비로움은 물론이고 감탄을 자아내는 바다와 맛있는 음식 등 다양한 매력이 있습니다. 흥미로운 리아스식 해안이 발달한 쓰시마 섬은 고대로부터 일본과 아시아를 잇는 가교 역할을 하며 번성했습니다. 섬 안에 무려 1,000여 개의 신사가 있는 이키 섬은 일본에서도 유명한 장소입니다. 이 놀라운 섬에서 일본의 역사와 전통을 즐겨보세요.",
+    "map": "../img/location-data/location24/location24_intro_positionmap.svg",
+    "spot": [
+      {
+        "id": "01",
+        "img": [
+          { "url": "../img/location-data/location24/spot1-1.jpg" },
+          { "url": "../img/location-data/location24/spot1-2.jpg" },
+          { "url": "../img/location-data/location24/spot1-3.jpg" },
+          { "url": "../img/location-data/location24/spot1-4.jpg" },
+          { "url": "../img/location-data/location24/spot1-5.jpg" },
+          { "url": "../img/location-data/location24/spot1-6.jpg" }
+        ],
+        "title": "쓰시마: 아소만에서의 유람선 관광",
+        "detail": "아소만은 일본에서 가장 아름다운 리아스식 해안이 있는 곳입니다. 이 90 분짜리 유람선 여행을 통해 운하 높이 가로지르는 만제키바시 (만관교), 바다 한가운데 솟아 있는 토리이로 유명한 와타즈미 신사를 구경할 수 있습니다. 아소만을 가로질러 주변을 구경할 수 있는 관람 플랫폼이 있습니다. 해지는 저녁의 풍광은 정말 멋집니다."
+      },
+      {
+        "id": "02",
+        "img": [
+          { "url": "../img/location-data/location24/spot2-1.jpg" },
+          { "url": "../img/location-data/location24/spot2-2.jpg" },
+          { "url": "../img/location-data/location24/spot2-3.jpg" },
+          { "url": "../img/location-data/location24/spot2-4.jpg" },
+          { "url": "../img/location-data/location24/spot2-5.jpg" },
+          { "url": "../img/location-data/location24/spot2-6.jpg" }
+        ],
+        "title": "쓰시마: 바다 카약킹 경험",
+        "detail": "아무도 살지 않는 무인도에서 바다 카약은 물론, 순수한 대자연 속에서 런치를 즐길 수 있는 기회입니다. 노코와키이와 (鋸割岩) 는 50m가량의 깎아지른 절벽으로, 고대에는 섬을 지키기 위한 천연 요새의 역할을 했다고 합니다."
+      },
+      {
+        "id": "03",
+        "img": [
+          { "url": "../img/location-data/location24/spot3-1.jpg" },
+          { "url": "../img/location-data/location24/spot3-2.jpg" },
+          { "url": "../img/location-data/location24/spot3-3.jpg" },
+          { "url": "../img/location-data/location24/spot3-4.jpg" },
+          { "url": "../img/location-data/location24/spot3-5.jpg" },
+          { "url": "../img/location-data/location24/spot3-6.jpg" }
+        ],
+        "title": "쓰시마 그랜드 호텔",
+        "detail": "모든 룸에서 장엄한 쓰시마 해협의 바다 뷰를 감상할 수 있습니다. 레스토랑에서는 쓰시마 현지식을 제공합니다. 제철 해산물을 돌 위에 구운 돌 구이는 적외선으로 조리되어 속이 통통하고 부드러운 특별한 요리입니다."
+      },
+      {
+        "id": "04",
+        "img": [
+          { "url": "../img/location-data/location24/spot4-1.jpg" },
+          { "url": "../img/location-data/location24/spot4-2.jpg" },
+          { "url": "../img/location-data/location24/spot4-3.jpg" },
+          { "url": "../img/location-data/location24/spot4-4.jpg" },
+          { "url": "../img/location-data/location24/spot4-5.jpg" },
+          { "url": "../img/location-data/location24/spot4-6.jpg" }
+        ],
+        "title": "이키: 코지마 신사",
+        "detail": "“일본의 몽생미셸” 로 알려진 코지마 신사로 가는 길은 썰물 때 자연스럽게 드러납니다. 밀물이 되어 길이 사라지면 고대부터 사용되던 노젓는 배를 이용해 신사에 접근할 수 있습니다."
+      },
+      {
+        "id": "05",
+        "img": [
+          { "url": "../img/location-data/location24/spot5-1.jpg" },
+          { "url": "../img/location-data/location24/spot5-2.jpg" },
+          { "url": "../img/location-data/location24/spot5-3.jpg" },
+          { "url": "../img/location-data/location24/spot5-4.jpg" },
+          { "url": "../img/location-data/location24/spot5-5.jpg" },
+          { "url": "../img/location-data/location24/spot5-6.jpg" }
+        ],
+        "title": "이키: 이키코쿠 박물관",
+        "detail": "야오이 시대 (기원전 300년 ~ 기원후 300년), 당시에는 “이키국 (이키코쿠)” 으로 알려졌던 이키 섬은 국제적 성격을 가진 바다 왕국의 수도였습니다. 유리창 너머로 섬의 땅에 묻힌 채로 잠자고 있는 유물을 관람하는 경험을 통해 이키 섬의 역사에 대해 더 많이 알아볼 수 있습니다."
+      },
+      {
+        "id": "06",
+        "img": [
+          { "url": "../img/location-data/location24/spot6-1.jpg" },
+          { "url": "../img/location-data/location24/spot6-2.jpg" },
+          { "url": "../img/location-data/location24/spot6-3.jpg" },
+          { "url": "../img/location-data/location24/spot6-4.jpg" },
+          { "url": "../img/location-data/location24/spot6-5.jpg" },
+          { "url": "../img/location-data/location24/spot6-6.jpg" }
+        ],
+        "title": "이키: 타츠노시마 섬",
+        "detail": "무인도인 타츠노시마 섬은 “겐카이나다 바다의 보석함” 으로 알려져 있습니다. 섬에 다가가면 완만한 경사로 이루어진 모래사장이 아름답게 반짝입니다. 섬 주변의 바다는 놀라울 정도로 투명해서, 맑은 날 배를 보면 마치 공중에 떠 있는 것처럼 보일 정도입니다."
+      },
+      {
+        "id": "07",
+        "img": [
+          { "url": "../img/location-data/location24/spot7-1.jpg" },
+          { "url": "../img/location-data/location24/spot7-2.jpg" },
+          { "url": "../img/location-data/location24/spot7-3.jpg" },
+          { "url": "../img/location-data/location24/spot7-4.jpg" },
+          { "url": "../img/location-data/location24/spot7-5.jpg" },
+          { "url": "../img/location-data/location24/spot7-6.jpg" }
+        ],
+        "title": "이키 돌고래 공원과 리조트",
+        "detail": "이키 돌고래 공원과 리조트는 천연의 작은 만을 구획하여 만든 곳입니다. 커피와 팬케이크를 즐기며, 멋진 큰돌고래들과 함께 편안한 시간을 보내보는 것은 어떨까요?"
+      }
+    ]
+  },
+  "location25": {
+    "id": "이시가키지마, 다케토미지마",
+    "category": "오키나와",
+    "img": [
+      { "url": "./img/location-data/location25/location25_front.jpg" },
+      { "url": "./img/location-data/location25/location25_front_map.svg" }
+    ],
+    "post": "../img/location-data/location25/location25_head.jpg",
+    "place": "오키나와의 낙도",
+    "title": "이시가키지마, 다케토미지마,이리오모테지마: 일본의 열대 섬들",
+    "topic": "남쪽 섬의 자연을 체험하거나 최고급 리조트에서 편안한 시간을 만끽하자",
+    "detail": "이시가키 공항에서 일 년 내내 아름다운 바다로 둘러싸인 오키나와의 낙도로. 연간 평균 기온은 24.3°C. 이시가키지마의 호화 리조트에서 호화롭게 머물면서 스노클링을 즐기고, 아름다운 빨간 기와지붕과 하얀 모랫길이 늘어선 다케토미지마의 거리를 산책. 호시노야의 프라이빗 빌라에서 근사하게 머물면서 만끽하고, 이리오모테지마에서는 아열대 자연 속에서 자라는 맹그로브의 경치도 즐길 수 있습니다.",
+    "map": "../img/location-data/location25/location25_intro_positionmap.svg",
+    "spot": [
+      {
+        "id": "01",
+        "img": [
+          { "url": "../img/location-data/location25/spot1-1.jpg" },
+          { "url": "../img/location-data/location25/spot1-2.jpg" },
+          { "url": "../img/location-data/location25/spot1-3.jpg" },
+          { "url": "../img/location-data/location25/spot1-4.jpg" },
+          { "url": "../img/location-data/location25/spot1-5.jpg" },
+          { "url": "../img/location-data/location25/spot1-6.jpg" }
+        ],
+        "title": "가비라만",
+        "detail": "맨터 (대왕쥐가오리) 스크램블이라 불리는 유명한 다이빙 명소는 대왕쥐가오리를 조우할 가능성이 높은 것으로 유명하며, 파란색이나 에메랄드그린으로 색이 바뀌는 해상 스노클링이나 바다에 떠 있는 섬들의 장관 경치를 만끽할 수 있습니다."
+      },
+      {
+        "id": "02",
+        "img": [
+          { "url": "../img/location-data/location25/spot2-1.jpg" },
+          { "url": "../img/location-data/location25/spot2-2.jpg" },
+          { "url": "../img/location-data/location25/spot2-3.jpg" },
+          { "url": "../img/location-data/location25/spot2-4.jpg" },
+          { "url": "../img/location-data/location25/spot2-5.jpg" },
+          { "url": "../img/location-data/location25/spot2-6.jpg" }
+        ],
+        "title": "이시가키의 식사와 아와모리",
+        "detail": "고품질의 이시가키규와 파인애플. 섬의 토속주인 아와모리도 놓칠 수 없습니다."
+      },
+      {
+        "id": "03",
+        "img": [
+          { "url": "../img/location-data/location25/spot3-1.jpg" },
+          { "url": "../img/location-data/location25/spot3-2.jpg" },
+          { "url": "../img/location-data/location25/spot3-3.jpg" },
+          { "url": "../img/location-data/location25/spot3-4.jpg" },
+          { "url": "../img/location-data/location25/spot3-5.jpg" },
+          { "url": "../img/location-data/location25/spot3-6.jpg" }
+        ],
+        "title": "이시가키지마 종유동",
+        "detail": "일본 최남단에 있는 이시가키지마 최대의 종유동. 반짝반짝 빛나는 종유석, 종유동 일루미네이션의 환상적인 반짝임 등을 볼 수 있습니다."
+      },
+      {
+        "id": "04",
+        "img": [
+          { "url": "../img/location-data/location25/spot4-1.jpg" },
+          { "url": "../img/location-data/location25/spot4-2.jpg" },
+          { "url": "../img/location-data/location25/spot4-3.jpg" },
+          { "url": "../img/location-data/location25/spot4-4.jpg" },
+          { "url": "../img/location-data/location25/spot4-5.jpg" },
+          { "url": "../img/location-data/location25/spot4-6.jpg" }
+        ],
+        "title": "이시가키야키",
+        "detail": "오키나와의 바다를 대표하는 파란 도자기. 기념품으로도 매우 적합하며 도자기 만들기도 체험할 수 있습니다."
+      },
+      {
+        "id": "05",
+        "img": [
+          { "url": "../img/location-data/location25/spot5-1.jpg" },
+          { "url": "../img/location-data/location25/spot5-2.jpg" },
+          { "url": "../img/location-data/location25/spot5-3.jpg" },
+          { "url": "../img/location-data/location25/spot5-4.jpg" },
+          { "url": "../img/location-data/location25/spot5-5.jpg" },
+          { "url": "../img/location-data/location25/spot5-6.jpg" }
+        ],
+        "title": "호시노야 다케토미지마",
+        "detail": "이시가키에서 페리로 불과 10분. 이 낙도에 있는 빨간 기와지붕과 하얀 모래의 아름다운 거리는 힐링 명소. 오키나와의 전통적인 건축 디자인을 입힌 호시노야 다케토미지마에 머물며 샤미센의 음색을 들으면서 별빛 하늘 아래에서 휴식을 취할 수 있습니다."
+      },
+      {
+        "id": "06",
+        "img": [
+          { "url": "../img/location-data/location25/spot6-1.jpg" },
+          { "url": "../img/location-data/location25/spot6-2.jpg" },
+          { "url": "../img/location-data/location25/spot6-3.jpg" },
+          { "url": "../img/location-data/location25/spot6-4.jpg" },
+          { "url": "../img/location-data/location25/spot6-5.jpg" },
+          { "url": "../img/location-data/location25/spot6-6.jpg" }
+        ],
+        "title": "나카마가와 맹그로브 크루즈",
+        "detail": "전체가 정글과 맹그로브로 뒤덮인 이리오모테지마. 일본 유수의 맹그로브 숲으로 유명한 나카마가와에서는 다른 곳에서는 볼 수 없는 푸른색 소라게를 만날 수 있을지도 모릅니다."
+      },
+      {
+        "id": "07",
+        "img": [
+          { "url": "../img/location-data/location25/spot7-1.jpg" },
+          { "url": "../img/location-data/location25/spot7-2.jpg" },
+          { "url": "../img/location-data/location25/spot7-3.jpg" },
+          { "url": "../img/location-data/location25/spot7-4.jpg" },
+          { "url": "../img/location-data/location25/spot7-5.jpg" },
+          { "url": "../img/location-data/location25/spot7-6.jpg" }
+        ],
+        "title": "피나이사라 폭포",
+        "detail": "높이 53m, 오키나와에서 가장 높은 폭포. 용소와 폭포 정상까지 트레킹. 폭포 위에서 바라보는 이리오모테지마의 맹그로브 숲은 숨 막힐 정도로 아름답습니다."
+      }
+    ]
+  }
+}

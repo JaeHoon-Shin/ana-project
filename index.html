@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+  <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+  <link href="./css/reset.css" rel="stylesheet" />
+  <link href="./css/index.css" rel="stylesheet " />
+  <script defer src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+</head>
+
+<body>
+  <section class="main-top">
+    <div class="viewBox">
+      <div class="imgbox on">
+        <img src="./img/main-img/main-view-img01.jpg" />
+        <div class="view-text-box">
+          <div class="map-box">
+            <span> VISIT<br />TOKYO </span>
+            <img src="./img/main-img/tokyoMap.svg" />
+          </div>
+          <h2>도쿄타워</h2>
+          <p>도쿄의 관광 명소, 상징으로 유명.</p>
+          <div>
+            <a href="./pages/location.html?local=location9"><img src="./img/main-img/example.jpg" /></a>
+          </div>
+        </div>
+      </div>
+      <div class="imgbox">
+        <img src="./img/main-img/main-view-img02.jpg" />
+        <div class="view-text-box">
+          <div class="map-box">
+            <span>
+              VISIT<br />
+              CHIBA
+            </span>
+            <img src="./img/main-img/chibaMap.svg" />
+          </div>
+          <h2>노미조 폭포, 가메이와 동굴</h2>
+          <p>환상적인 광경을 볼 수 있다고 SNS에서 화제가 된 명소입니다.</p>
+          <div>
+            <a href="./pages/location.html?local=location8"><img src="./img/main-img/example.jpg" /></a>
+          </div>
+        </div>
+      </div>
+      <div class="imgbox">
+        <img src="./img/main-img/main-view-img03.jpg" />
+        <div class="view-text-box">
+          <div class="map-box">
+            <span> VISIT<br />TOYAMA </span>
+            <img src="./img/main-img/toyamaMap.svg" />
+          </div>
+          <h2>아이노쿠라 갓쇼즈쿠리 마을</h2>
+          <p>
+            역사적 풍경을 지금도 간직한 이 마을에는 다양한 이야기가 있습니다.
+          </p>
+          <div>
+            <a href="./pages/location.html?local=location13"><img src="./img/main-img/example.jpg" /></a>
+          </div>
+        </div>
+      </div>
+      <div class="imgbox">
+        <img src="./img/main-img/main-view-img04.jpg" />
+        <div class="view-text-box">
+          <div class="map-box">
+            <span> VISIT <br />TOYAMA </span>
+            <img src="./img/main-img/toyamaMap.svg" />
+          </div>
+          <h2>쇼가와쿄 유람선</h2>
+          <p>
+            흔들리는 유람선 위에서 절경을 탐미하는 시간은 마음을 해방시켜
+            줍니다.
+          </p>
+          <div>
+            <a href="./pages/location.html?local=location7"><img src="./img/main-img/example.jpg" /></a>
+          </div>
+        </div>
+      </div>
+      <div class="imgbox">
+        <img src="./img/main-img/main-view-img05.jpg" />
+        <div class="view-text-box">
+          <div class="map-box">
+            <span> VISIT<br />TOHOKU </span>
+            <img src="./img/main-img/tohokuMap.svg" />
+          </div>
+          <h2>긴잔 온천</h2>
+          <p>
+            해가 지면 주변을 비추는 가스등이 향수를 불러일으키는 분위기를
+            자아냅니다.
+          </p>
+          <div>
+            <a href="./pages/location.html?local=location7"><img src="./img/main-img/example.jpg" /></a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="swiper mySwiper">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide">01</div>
+        <div class="swiper-slide">02</div>
+        <div class="swiper-slide">03</div>
+        <div class="swiper-slide">04</div>
+        <div class="swiper-slide">05</div>
+      </div>
+    </div>
+  </section>
+  <main class="content-box">
+    <div class="ex-box">
+      <span>/</span>
+      <p>다른여정</p>
+      <span>/</span>
+    </div>
+    <div class="location-name"></div>
+    <div class="contents"></div>
+    <div class="btn-box">
+      <div class="buttons"></div>
+    </div>
+  </main>
+  <script defer src="./javascript/com.js"></script>
+  <script defer src="./javascript/main.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/swiper@7/swiper-bundle.min.js"></script>
+  <script>
+    let imgIdx = 0;
+    const viewImg = document.querySelectorAll(".imgbox");
+    var swiper = new Swiper(".mySwiper", {
+      loop: true,
+      slidesPerView: 5,
+      loopedSlides: 1,
+      loopAdditionalSlides : 1,
+      direction: "vertical",
+      speed: 2000,
+      slideToClickedSlide: true,
+      centeredSlides : true,
+      autoplay: {
+        delay: 2000,
+        disableOnInteraction: false,
+      },
+      on: {
+        activeIndexChange: function () {
+          viewImg[imgIdx].classList.remove("on");
+          viewImg[this.realIndex].classList.add("on");
+          imgIdx = this.realIndex;
+        },
+      },
+    });
+    let idx = 0;
+    const view = document.querySelectorAll(".swiper-slide");
+    view.forEach((el, key) => {
+      el.addEventListener("click", () => {
+        console.log(key, "click");
+        viewImg[idx].classList.remove("on");
+        viewImg[key % 5].classList.add("on");
+        idx = key % 5;
+      });
+    });
+  </script>
+</body>
+
+</html>

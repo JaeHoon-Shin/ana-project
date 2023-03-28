@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <style>
+    article {
+      border: 1px solid black;
+      margin: 10px auto;
+    }
+  </style>
+  <body>
+    <article class="first">
+      <h2>회원가입</h2>
+      <form action="" method="get">
+        <input
+          class="useridgo"
+          type="text"
+          name=""
+          id="id"
+          placeholder="id를 입력해주세요 (5~12자)"
+          minlength="5"
+          maxlength="12"
+        />
+        <input
+          class="password"
+          id="password"
+          type="text"
+          placeholder="비밀번호를 입력해주세요 (4~8자)"
+          minlength="4"
+          maxlength="8"
+        />
+        <button class="signup" type="submit">submit</button>
+      </form>
+      <div></div>
+    </article>
+    <article class="second">
+      <h2>로그인</h2>
+      <form action="" method="get">
+        <input
+          type="text"
+          name=""
+          id="userIdtxt"
+          placeholder="id를 입력해주세요 (5~12자)"
+          minlength="5"
+          maxlength="12"
+        />
+        <input
+          type="text"
+          name=""
+          id="userPasswordtxt"
+          placeholder="비밀번호를 입력해주세요 (4~8자)"
+          minlength="4"
+          maxlength="8"
+        />
+        <button class="login" type="submit">submit</button>
+      </form>
+    </article>
+    <script src="user.js"></script>
+  </body>
+</html>
